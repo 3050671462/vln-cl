@@ -1,0 +1,1795 @@
+[{
+  "distance": 13.56,
+  "heading": 2.028,
+  "instructions": [
+    "Turn left and go down the hall. Then take a right at the end of the hallway and enter the doorway. Continue straight and then turn right. passed the bed and then stop in front of the shower. ",
+    "Walk past the stairs on the left. Walk past the large black plant pot outside. Make a right through the open door on the right. Walk past the closet on the left. Make a right just after the built-in cabinets on the right. Make a right into bathroom. Wait at the shower stall. ",
+    "Turn around and walk down the hall. Then turn right and enter the large bedroom suite. Stand near the bathroom. "
+  ],
+  "path": [
+    "90dcb8a526504454b728d3f7951f153f",
+    "33a824661ad34d9391d80d87485b5356",
+    "45eac43ea9054cbbaa91863a5aa202fa",
+    "6b3e8eaf98a14207b9ec30d4105938ce",
+    "3c4a8eb4ef504942b6df1937932aa3f2",
+    "428bc90067994001952048f25dc4e57d",
+    "854eec676352475f90d1fb18677f9a8b"
+  ],
+  "path_id": 3436,
+  "scan": "kEZ7cmS4wCh",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 20.71,
+  "heading": 1.688,
+  "instructions": [
+    "With the window behind you and a solid wall to your right, move forward to exit the room. Upon exiting, turn ninety degrees to the left and move forward. Then turn ninety degrees to the right after entering the room. Move forward past two large circular tables to your left and a display case on your right while walking to the stairs leading downwards. Walk past the stairs with the stairs on your left and stop at the vaulted hallway on your right. ",
+    "Turn right and then turn left in the hallway. Turn right at the door and continue to the right of the doorway and stop. ",
+    "Exit through the open door and turn left, then proceed into the open room with the carpet.  Turn right and go across the room.  Wait to the right near the top of the stairs. "
+  ],
+  "path": [
+    "10eb95bf6d0541069c5f084cbb146f11",
+    "21d98b3051984309af072f3fde91c49d",
+    "b409b06f51b843e3948e146f9e7d7526",
+    "9d33a07061f54a5eb58588a5bc9f10da",
+    "36ba7aeeb72e40d69e3e1c775e4bf541",
+    "0f01520129074da5b4c0c58d72442c3a",
+    "d2ac4c15536f4a62b285088387a2c9b8"
+  ],
+  "path_id": 4594,
+  "scan": "E9uDoFAP3SH",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 17.01,
+  "heading": 4.896,
+  "instructions": [
+    "Turn to the right and walk down the hallway.  Walk till you can turn to the right and walk past the fireplace.  Walk towards the chairs.  Then turn to the right and go stand by the first open door.  Wait there. ",
+    "Walk out of the bedroom and turn left. Walk down the hallway and turn right. Walk past the fireplace and walk to the right of the glass case. Turn left and stop in the doorway. ",
+    "Turn around and take a left. Walk straight. Take a right and walk past the stairs and the fireplace. Keep walking straight and wait in the doorway of the room to the right of the hutch. "
+  ],
+  "path": [
+    "f0501ef281ab486eac400af37a580e19",
+    "ba692fd9ec524282935a608d975374e3",
+    "9bbc936210084a00ad05856e0f5a3364",
+    "cf4babf2d24a44418351494fa1cb5ebf",
+    "0e8e2c9d09974dab977c1d3868286f12",
+    "9766d89c21094c5b872be3a378d4cbad",
+    "ae97478ce1c84d5588244906fe089558"
+  ],
+  "path_id": 1238,
+  "scan": "D7N2EKCX4Sj",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 19.98,
+  "heading": 3.958,
+  "instructions": [
+    "Turn around and take a left. Turn right after the table with the white tablecloth. Take another right after the bench with black leather. Wait next to the white chair on the right. ",
+    "Turn left and go past the stairs on your right then turn right and go past the bench on your right. Enter the room on your right and wait by the white couch. ",
+    "With the water fountain directly behind you, enter the room ahead and turn ninety degrees to the left and walk past the wooden staircase on your right. Turn right underneath the staircase and walk down the hallway leading to the exit. Just before reaching the exit, turn right into the room with the sign \"Bridal Room\" next to the entrance. Go to the right after you enter the room and wait in front to the two chairs that will be on your right. "
+  ],
+  "path": [
+    "06c88433ed80477f90bd50f8dc25e7de",
+    "fa1f118c0f924788aa7ea44f690a054f",
+    "ccfc7026f4c6494ca251076c85aa906c",
+    "17be6f4e233546548c6c03fef0459044",
+    "35b3d70f47994598aedb510108752797",
+    "1948f7cff5b04572b43c105a61df7a6d",
+    "d08536af13b44cf486b3d906d76cfaf8"
+  ],
+  "path_id": 3397,
+  "scan": "r1Q1Z4BcV1o",
+  "source": "R2R",
+  "direction_num": 19
+},{
+  "distance": 13.98,
+  "heading": 1.174,
+  "instructions": [
+    "Exit the bedroom and take a right turn.  Walk down the hall and stop at the gray stone flooring.  Take a left turn and continue walking.  Take a left turn into a dining area with bookshelves.  Walk past the table in this room and stand at the edge of the rug where you can view the next room. ",
+    "Leave the room and take a right. Once on the stone ground take a left, and go straight. take a left into the dining room. Walk forward and stop in the doorway to the living room. ",
+    "Exit bedroom and walk down hallway. When you have and opening to your left in front of a wooden door, turn left toward the potted plants. Follow this pathway until you can turn left just before the white chair, into the library. Walk past the sink on the right side of the table and wait at the entryway of the living room. "
+  ],
+  "path": [
+    "9df5f6ec205f4c8088cc80891d97675e",
+    "f97898ee20f74b2d8627f5065d633d45",
+    "2ebc2682287645efabf7f2319682aab1",
+    "904beb4bca9e4e2b8d15f3af9b70a242",
+    "9c2919ad974d472fa4f97c01005666f0",
+    "fc30206582bb494190095c4439e2da29"
+  ],
+  "path_id": 1826,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 10.16,
+  "heading": 0.874,
+  "instructions": [
+    "Go up the stairs and take a right, and another right past the sink. Once past the sink take a left, and stop in the first doorway on your left in a bedroom. ",
+    "Turn slightly to the right to walk up the stairs. Once you are at the top of the stairs turn right to walk into the large room towards the long table and the large marble vase. Before you enter the area with the long table turn right to move between the marble vase and the faucet display. You should be moving through an arched passageway towards a gilt framed mirror. In the hallway that is to the left of the gilt mirror there is a closed door. The door is at the beginning of the hallway and is on the right side of the hallway. Move to stand directly in front of this door and stop. ",
+    "Go up the staircase, turn right and then right again, turn left to the hallway and then immediately right to enter the bedroom, wait by the door. "
+  ],
+  "path": [
+    "ed2d5dadd1994487a5815fb8126bf80f",
+    "2b4b62ead49b4f14a013f85816012a12",
+    "aadc2f85a2a742d7ba9a388dd6f4c9cf",
+    "a92ada1b9db2420ca7e1b55d372f8ffa",
+    "3d6c224493aa4b8fa5fd16e7ae8e2d66",
+    "c1a600332bb245b19d8174c0790d6fd6"
+  ],
+  "path_id": 291,
+  "scan": "2n8kARJN3HM",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 16.97,
+  "heading": 1.341,
+  "instructions": [
+    "Go slight right around purple chair. then go slight left to the other side of the room -left of the glass wall go forwards toward the red chair. turn right at the window wall and go outside. Walk straight to the hot tub and stop. ",
+    "Enter the bedroom with the large glass wall. Walk past the bed on the left and go through the doorway into a hallway. Walk toward the open glass doors on the right. Walk out of the building and turn left. Walk along the pathway with a glass wall on the right. Wait by the splash pool ahead, with the glass wall and a cactus to the right. ",
+    "Walk toward the glass windows looking outside. Turn left and walk past the bed. Walk through the door. Continue straight and go outside through the door on your right. Stop in front of the hot tub. "
+  ],
+  "path": [
+    "0e31d2cf016445c5b4adf1aceeed25c4",
+    "c0d5fe43f0b143df80de8b5f78858474",
+    "37cb64e0cddc4f20b309abc4ff5344c2",
+    "4890b24fbb59414892ca854895896126",
+    "98f2fab16dc44b82aef16383127ee674",
+    "fef2e4d985b549a4964fe7790b4aea77",
+    "a9a28cd4e91b4bc389e476fedba66069"
+  ],
+  "path_id": 299,
+  "scan": "Uxmj2M2itWa",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 15.2,
+  "heading": 0.28,
+  "instructions": [
+    "Walk down hallway to the T then turn left, and left at first opening hall and then turn right into room with long tables and black chairs. ",
+    "Walk forward and then turn left to walk down the hallway. Once you reach the clear glass wall on your right without black at the top, turn left and enter the hallway. Walk forward and enter the first door to your right and stop. ",
+    "Exit out the door, and turn left. Walk forward and turn left at the very first visible corner. Walk forward, and turn right towards the very first door leading to the conference room. Enter inside the door and stop there. "
+  ],
+  "path": [
+    "b20bb1f3ef504e7aa12d65efcdd78f4f",
+    "d57f3fb1653949b381ff1b725da842b7",
+    "05007a3d6dc2420b960c6dcc2e9b0353",
+    "881a405088944173a5494c9e5145677c",
+    "be7c88ff81f04b52b18125c6c9f4b84f",
+    "3f227a714e3c44aba3a19efe7b8b1681",
+    "8e3cb86643cc4eee947faae80d8fb256"
+  ],
+  "path_id": 4233,
+  "scan": "B6ByNegPMKs",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 9.37,
+  "heading": 3.91,
+  "instructions": [
+    "Turn approximately 90 degrees toward the right. Exit the bedroom. Move slightly to the left. Walk through the hallway towards the common area. Turn right. Wait under the archway by the dining area. ",
+    "Walk past the foot of the bed on your right and exit the bedroom through the door in front of you. Take a dogleg to the right and continue walking. When you can take a ninety degree turn to the right, do so and stop just to the left of the circular rug in front of the door leading outside. ",
+    "Pass by the television and exit through the doorway, continue straight down the hallway past the light switch on the wall until you reach a path on the right, turn right and move forward until you see a kitchen table on your left, stand near the kitchen table. "
+  ],
+  "path": [
+    "558ecbf759e446f58af17bd5c1a6025a",
+    "92ffe9fa9ea6437c88eac23b0bafc0bc",
+    "818d69716786445f8eef89a590ec3f52",
+    "7921c216294d43c0b7be2ca634bbf6a9",
+    "4f278b8e757046919bbf37269dd0d017"
+  ],
+  "path_id": 5029,
+  "scan": "8WUmhLawc2A",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 10.81,
+  "heading": 2.309,
+  "instructions": [
+    "walk straight across room to hallway on slight left, go down a few steps and continue down hallway, turn left at 2nd door and then turn an immediate slight right into bedroom. stop in doorway. ",
+    "proceed straight through the doorway past the wooden shelves, continue down the stairs that are slightly towards the right. Continue straight to the second doorway, face your left, there will be a toilet straight ahead, enter the doorway to the right so you are facing a bed. ",
+    "Go inside pass the shelves and go down the five steps, turn left on the second door you pass and turn right. Wait at the entrance of the room with the green comforter on the bed. "
+  ],
+  "path": [
+    "6c7301f898ff4b4c9d915dfbe887d507",
+    "49913376d9ab471a8fce92a8edc786b9",
+    "af2982c371134df79520b348071775a0",
+    "ad3a2912de974a5690af5050e6ade942",
+    "846c8d973a1a460ca942e15733cddc71"
+  ],
+  "path_id": 2610,
+  "scan": "82sE5b5pLXE",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 17.83,
+  "heading": 0.036,
+  "instructions": [
+    "Go to the left of the bed and out of the bedroom. Then go down the hall and make a right at the top of the stairs, go past the stairs and go a couple steps into the bedroom and wait there. ",
+    "Go around the bed and turn right down the long hallway. Turn right into the first open door. ",
+    "Walk past the bed on the right. Make right in front of the TV. Walk past the painting on the wall to the right. Exit the bedroom. Walk the art gallery wall on the left. Make a right at the end of the half wall on the right. Enter the open door to the left of the Frida Kahlo painting.Walk past the bathroom on the left. Wait at the drapery panels. "
+  ],
+  "path": [
+    "27b904430e4e48acb818e2ab80f183e3",
+    "0672a86275c14b148e8618ecde714e06",
+    "837b0a58fa8b4820a3c07e0c89ccfc60",
+    "b5b07238f2f94494b5d16390855584cb",
+    "1c2209fa44fc48c7b7ce7981bafc4ccf",
+    "4ea1cfa67ec145b39f90056a02a43d9f",
+    "8844f8fdc366462587b70fb7ede46242"
+  ],
+  "path_id": 7281,
+  "scan": "JF19kD82Mey",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 7.32,
+  "heading": 2.914,
+  "instructions": [
+    "Turn around and walk out of the bathroom. Take a right and then take another right. Enter the room on the right and wait there. ",
+    "Turn around to your right and head straight towards the couch, stopping just in front of the corner of it to your right, just to the right of the rug. Slight right, then head in the direction of the wooden door in front of you. Turn right down the hallway, Move straight, stopping in front of the white open door frame. Hang a slight right, walking through the doorframe, Move straight and wait in front of the black and white striped rug. ",
+    "Walk out of the bathroom and turn right. Walk into the hallway and turn right. Turn right and walk through the doorway. Turn left and stop in front of the zebra rug. "
+  ],
+  "path": [
+    "4516c61b63d3423fbcb2b5cf0cc66a9c",
+    "b7399a1023fa401cac7c61be394ab63d",
+    "d9a69bc7b8a54a319a05f366120ef056",
+    "0e5f1cd9a1cf46ecb2280d75dbb0a819",
+    "5c092cee3b7c4684955a2827c06b87e1"
+  ],
+  "path_id": 1414,
+  "scan": "sKLMLpTHeUy",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 14.42,
+  "heading": 3.224,
+  "instructions": [
+    "Walk straight ahead and past the stairs and enter the doorway.  Turn left and enter the bedroom. Walk to the other side of the bed and enter the doorway to your left. and stop facing in the bathroom. ",
+    "Go straight passed the stairs and turn into the bedroom on the left. Stop in the bathroom door in the back left. ",
+    "walk through doorway towards stairs, slight left and right again to walk past stairs through doorway, turn left and walk into bedroom, walk past foot of bed towards chairs, walk past chairs and turn left towards bathroom, stop in doorway. "
+  ],
+  "path": [
+    "175d0c8d6d7244f5bbeb03190345cb68",
+    "f0bf7f3b529548a5a2c36fcc9b05b714",
+    "1015e20d2dca4a01b6cca0ca0d71c29a",
+    "3ed7021b489144e9931aa86d6ed282c1",
+    "ba9af4d3f96d4b47bd45d828f2d61d2c",
+    "0abcad1faaaa45d296aac7b2083ebe54"
+  ],
+  "path_id": 4434,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 15.07,
+  "heading": 5.121,
+  "instructions": [
+    "Proceed forward past the dresser then turn left. Then enter family room and go by the pool table. Proceed past the pool table and enter the small bathroom on your right.  Wait by the sink. ",
+    "Turn slightly left and head toward the open door, passing between the bed and bathtub.  Walk through the door and turn left.  Keep going, passing the pool table with it on your right and end at the left of two highchairs. ",
+    "proceed away from the bathroom, past the tub, and walk next to the foot of the bed. Exit the doorway on your left, walk to the left of the reclining chair past the pool table. There will be two log chairs against the wall on your right, walk past them and into the doorway of the bathroom on the right. "
+  ],
+  "path": [
+    "f0fea79c1a36425b9979f781ecd4d092",
+    "a9bdea807d534025a937b7c715bc974c",
+    "64685718397043c08a14614bb91e36bc",
+    "2dc819c5a5864cc8a953a8af8030acf4",
+    "f00970b67a46474cb616cd98cda9dee6",
+    "217ac15c800641249e7e6cd8537f52ab",
+    "0c17fd1d27164de4ad2274e6e0d64a89"
+  ],
+  "path_id": 2682,
+  "scan": "V2XKFyX4ASd",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 12.86,
+  "heading": 1.276,
+  "instructions": [
+    "Exit the bathroom then turn left. When you get to the pool table turn left and go into the room on the left. Turn left and pass the tub and go into the bathroom straight ahead. Wait near the sink. ",
+    "Walk straight through the open door. Turn left, and go through the door to the left of the pool table. Turn left into the bathroom and stop. ",
+    "Walk to the right of the sink to exit the room. Once you enter the room turn left and walk towards the pool table. Turn left and enter the door to the left of the video game machine. Once inside the room turn left and enter the first door to the right of the tub. Stop inside the doorway of the bathroom. "
+  ],
+  "path": [
+    "f658e9b6b19e471c8c98f9175b03d8a1",
+    "0c17fd1d27164de4ad2274e6e0d64a89",
+    "90134c38554c4c15b5017daacaa9182a",
+    "02536c70a99d4749bc290d1aa962ebc7",
+    "3825796e4d5b48558b36001b2f96b31c",
+    "4868d91f4f544213acd2c266c98befaa",
+    "b03190e8bd2044d6b5361650f69dde54"
+  ],
+  "path_id": 4754,
+  "scan": "V2XKFyX4ASd",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.85,
+  "heading": 2.381,
+  "instructions": [
+    "Turn left and enter the hall, turn right at the door and turn left at the stairs. Continue through the hall and stop in the living room. Then turn right and continue down the stairs and stop. ",
+    "Walk straight then turn right. Walk toward the stairs then turn left. Go straight and down the steps. U turn right and go down the stairs. Go down six steps then wait there. ",
+    "Walk into the hallway and turn right. Walk left past the stairs and into the living room and turn right. Walk down the steps and stop halfway down the stairs. "
+  ],
+  "path": [
+    "f033e7084d8b45fd8ef49897e9642639",
+    "8de72729921c4f929c8c267ee5199a66",
+    "1cd3d12fe013476fbb2fbcb7af9d5104",
+    "c1899390d19d453683d3c2bf87d2547d",
+    "c8c384520f0d46b19b905e75d9bc9137",
+    "4348fadcd604455aa9a69c3a277a5dbc",
+    "98804cca56e74b79beaa60b29db2e6c1"
+  ],
+  "path_id": 5677,
+  "scan": "gTV8FGcVJC9",
+  "source": "R2R",
+  "direction_num": 19
+},{
+  "distance": 11.07,
+  "heading": 0.388,
+  "instructions": [
+    "Exit room. Walk towards doorway past the set of stairs. Go through the doorway and turn left. Wait in front of the sink. ",
+    "Walk out of the wine cellar into the room with the large round table in the middle.  Keep the table on the right and walk down the hallway past the staircase that will be on your left.  Walk towards the yellow and red curtains and turn left when you reach the intersecting hallway.  Turn left and walk forward towards the office with the large wooden desk.  Stop before you enter the office in front of the open door in your right, and the sink on your left. ",
+    "Exit the wine cellar and straight passed the brown table on the right, keep left of the room division and go passed the stairs on the left and go through the small archway, make a left and stop at the sink. "
+  ],
+  "path": [
+    "15783cee785d4630bb732f4399519e8b",
+    "0ff26224c3f04c3a924aa1982fa13976",
+    "17a99656493c47abbb5ceb214af3e8ea",
+    "51d93d4c184f4197bd84f9b082b54e2b",
+    "8630d0d97d4c4767b37488dfbe97f51b",
+    "dfb1f5674ff1434f8e101bcd9d3cfb20"
+  ],
+  "path_id": 6133,
+  "scan": "VzqfbhrpDEA",
+  "source": "R2R",
+  "direction_num": 19
+},{
+  "distance": 15.46,
+  "heading": 1.234,
+  "instructions": [
+    "go straight towards the front door and make a right the walk straight down past the sofas and recliner and come to a stop right before the bathroom. ",
+    "Go down the stairs and go straight, then take a left and go around the recliners. Go into the room that is on the far right the second door on the right. Stop in the doorway to the bathroom. ",
+    "Walk down the hallway opposite of the stairs, turn left and walk straight down second hallway, walk past couches and turn at the first door on the right, stop in the doorway. "
+  ],
+  "path": [
+    "6a289d9b67cd43f4b59aab2037af221b",
+    "50e5eb51e92446a78ccfb851123e801d",
+    "6902e2e6503e43c0b5810d4cb229ad16",
+    "98b08d62cf5b42d8b6c22eb40774eb97",
+    "f7bfe15839b94a548dec94d2875b9cc3",
+    "aeccd4a96d1e4d819bc5f59bff1d156d",
+    "ff14bec47e17474dbdbfeccfe40e5d39"
+  ],
+  "path_id": 1734,
+  "scan": "V2XKFyX4ASd",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 7.2,
+  "heading": 6.253,
+  "instructions": [
+    "Walk past thermostat on left. Walk past back of leather sectional on right. Make left after column. Wait at bar stool. ",
+    "Move forward down the hallway with the temperature on your left and the painting on the right. Pass the black couch on your right. Turn left when you pass the wall on your left holding the two candles. Stop when you reach the two counter tops to your left and right. ",
+    "Walk forward down the long hall passing he living room. After the living room take a left into the kitchen. Stop next to the breakfast bar. "
+  ],
+  "path": [
+    "782da181b84741359dfbf275099c7ea8",
+    "19ce58d7d1694f89a647999990fb663f",
+    "7022a22f8b694102a795919fce934e03",
+    "a475d54e18664630b19f47575a874cf4",
+    "7ee437db8a914c6d8ce7555b3ce6aae4",
+    "7bfd840693034959a2dffb2625026980",
+    "ca2a1110dcfa4449a6cd735d6cfb9402"
+  ],
+  "path_id": 1391,
+  "scan": "mJXqzFtmKg4",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 16.31,
+  "heading": 0.097,
+  "instructions": [
+    "Turn around and walk into the room past the fireplace. Turn left and walk past the white table into the hallway. Turn right and continue walking straight. When you see an open door, turn right and continue to walk. When you get to the corner of the hallway, turn left and stop in the doorway of the bedroom in front of you. ",
+    "Leave the living room walking into the dining/library. In he library take a left and walk out into the hall. Take a right in the hall and straight and take the last right, then a left. Stop in the doorway to the bedroom. ",
+    "turn around and walk through the doorway then turn left. Take a right in the hall and enter the door on your right then take a left into the bedroom and stop. "
+  ],
+  "path": [
+    "bbbe225834074bb0a3fb31a3e1e80685",
+    "fc30206582bb494190095c4439e2da29",
+    "9c2919ad974d472fa4f97c01005666f0",
+    "904beb4bca9e4e2b8d15f3af9b70a242",
+    "2ebc2682287645efabf7f2319682aab1",
+    "f97898ee20f74b2d8627f5065d633d45",
+    "9df5f6ec205f4c8088cc80891d97675e"
+  ],
+  "path_id": 1889,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 16.71,
+  "heading": 4.024,
+  "instructions": [
+    "With the stairs on your left go forward past the chair on your left and go up the stairs near the cabinet with the clock on it and keep going up he stairs to the top and up to the landing and take a right up the stairs again and once at the top of the stairs take a right in the hall and go straight down the narrow stairs stopping in between the first two doors. ",
+    "Turn to the right.  Go up the stairs and when you get to the top, turn right and go down the hallway.  You'll stop at the two doors, one on the left and one on the right.  Wait. ",
+    "Walk along the banister rail past the arm chair. Walk towards the flight of stair heading upstairs. Walk up to the to of the stairs. Continue through the room over the glass floor and down the hall to the door at the end of the hallway. "
+  ],
+  "path": [
+    "bf428f443730499685d561a4221be040",
+    "0aa7d38c4a904859b548bd69f4691106",
+    "d5dbd24d1b9c404a9b4fc687ecf17a4f",
+    "fa51cb2051f240d795737cdffeda6178",
+    "12c934ed973740efbdbe207ab3a064d3",
+    "f99835e3fffc45bbb3b4c992c78756e5",
+    "9594700e2d354cc89c318b8df7ac29b1"
+  ],
+  "path_id": 481,
+  "scan": "s8pcmisQ38h",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 19.98,
+  "heading": 4.824,
+  "instructions": [
+    "Exit the room and to left pass the bench on the left and when you see the fireplace turn left head toward the round table when you get to the table turn right in that hallway. Wait there by the drinking fountain. ",
+    "Exit the room to the left. Continue to turn left and walk past the office on your right. When you see the underside of a staircase, look left for an entryway marked \"Restroom\" and head towards it. Stop in front of the water fountain. ",
+    "Walk through the doorway directly opposite of the large mirror on the floor. turn left and walk past the black bench towards the fireplace. Turn left at the fireplace walk past the double doors and past one long table covered with white linens. Stop in the doorway on your right. "
+  ],
+  "path": [
+    "d08536af13b44cf486b3d906d76cfaf8",
+    "1948f7cff5b04572b43c105a61df7a6d",
+    "35b3d70f47994598aedb510108752797",
+    "17be6f4e233546548c6c03fef0459044",
+    "ccfc7026f4c6494ca251076c85aa906c",
+    "fa1f118c0f924788aa7ea44f690a054f",
+    "06c88433ed80477f90bd50f8dc25e7de"
+  ],
+  "path_id": 2688,
+  "scan": "r1Q1Z4BcV1o",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 11.99,
+  "heading": 4.715,
+  "instructions": [
+    "Walk down the hall heading to the patio. Take a right before you exit the house and go straight. Take the second right into the dining room. Stop behind the first chair. ",
+    "Go straight until you pass the two statues that are one on each side then turn right and continue down the hallway until you see a room on the right with a large table and six chairs with a chandelier. Stop there. ",
+    "Turn around and walk towards the open back double doors. Turn right when you are in front of the back doors (before you go outside) and walk down the two marble steps and into the hallway. Walk forward past the first opening on the right and continue until you reach the area where there are double doors leading outside on your left and an open area with a dining table on the right. Turn into the dining area and stop just as you enter the area and when you are standing at the the head of the table. "
+  ],
+  "path": [
+    "ad048e19d6cc41d2b559988b26aea08a",
+    "c948e0adde424b22af74a18d3cf14ee6",
+    "5269c77b79004d35b83ff2ec0b92dcd8",
+    "adddb681dbba4a138e296d6be545cc69",
+    "b3fa9ba954b442449ed078b050cd2a94",
+    "3398c144f24745bda02fd6895b58361e",
+    "3193cd5f6d7a4b2bbf85d5043cbc6352"
+  ],
+  "path_id": 2443,
+  "scan": "vyrNrziPKCB",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 15.64,
+  "heading": 3.026,
+  "instructions": [
+    "Turn left and go down the hallway and turn right then go down that hall until you get to a candy cane striped chair. Head up the four steps on the left and then go up two steps on the right and stop there. ",
+    "Walk towards long red rug and turn left through doorway, Walk through doorway and turn right and proceed down that long red rug. Once you reach a red striped chair on your left, make your way to the white marble stairs. Go up them and take the red carpeted staircase on your right. Stop on the second step. ",
+    "Walk toward the long table and turn left to go through the open double doors.  Go through that doorway and turn right to go down another hallway.  Walk forward until you reach the marble stairs and walk up those stairs.  Go to the staircase on the right and stop on the second stair. "
+  ],
+  "path": [
+    "2c950f363d8843f99dfdfe831fd3a461",
+    "26dedb23c6e949dcbc1aa47b70653ef3",
+    "03f6e7e5c26b45d78feb5c2e3b6601e3",
+    "807009de2d6c43bf857a9250dc76f8be",
+    "56cf724d00bd469c8c4b80ad9ffa68dd",
+    "3f75b2d4af4d4afd85666d4c1302008c",
+    "3c9615b3193a4e71ae932ea45fef8dde"
+  ],
+  "path_id": 2942,
+  "scan": "VLzqgDo317F",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 14.95,
+  "heading": 0.987,
+  "instructions": [
+    "Walk straight and into the door on the slight right.  Go straight and down the steps. Turn left into the second opening and then turn right and wait near the entrance. ",
+    "Walk along the stone pathway past the potted plants. Continue into the front door of the home. Walk past the wood and glass cabinet and turn the corner past it. Walk down the hall with the wooden cabinets. Turn into the first open door that leads to a bedroom with a green blanket covering the bed. ",
+    "Walk forward toward potted plants. Walk past gate through doorway. Walk down right side of room to the stairs. Walk down the stairs to hall with wood paneling. At second doorway, turn left. Walk forward and stop in doorway of bedroom on right. "
+  ],
+  "path": [
+    "9f87a56612484ddd9784377af43f9b51",
+    "d1a56fbfc2a44566aff53cab76124e44",
+    "6c7301f898ff4b4c9d915dfbe887d507",
+    "49913376d9ab471a8fce92a8edc786b9",
+    "af2982c371134df79520b348071775a0",
+    "ad3a2912de974a5690af5050e6ade942",
+    "846c8d973a1a460ca942e15733cddc71"
+  ],
+  "path_id": 4380,
+  "scan": "82sE5b5pLXE",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 16.29,
+  "heading": 5.434,
+  "instructions": [
+    "Walk down stairs, and past the console table on the right. Walk down stairs, into the great room. Make a right at the bottom of the stairs, and walk past the bar. Make a right in front of the pool table, and wait at the threshold of the bathroom door. ",
+    "Go down the stairs and to the living room. Turn right and go to the entrance to the pool room. Turn right and at the entrance to the bathroom. ",
+    "Walk down the stairs and go past the statue to go down some more stairs into a room with two white couches.  Go to the right towards the pool table.  Stop in front of the bathroom to the right of the pool table. "
+  ],
+  "path": [
+    "1f476bc71f514d4c8cd520d4ceddd5f7",
+    "0e44c51fc1b947e0a44963d83f2ab6f1",
+    "c1899390d19d453683d3c2bf87d2547d",
+    "c8c384520f0d46b19b905e75d9bc9137",
+    "4348fadcd604455aa9a69c3a277a5dbc",
+    "d70562eaa1a143048948fd57fd695b27",
+    "79d225e6f4d146d6bed5402e5a528097"
+  ],
+  "path_id": 2924,
+  "scan": "gTV8FGcVJC9",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.16,
+  "heading": 3.017,
+  "instructions": [
+    "Walk past the fireplace on the right. Walk past the bathroom on the right. Make a right opposite the drip painting. Exit the bedroom. Enter the open door to the right of the thermostat on the wall. Walk past the white ottoman to the left. Wait on the roof deck. ",
+    "Take a left around the corner. Walk past the bathroom and take a right. walk down the hallway. Enter the door on the left. walk into the room past the chair, take a left. Walk outside onto the patio and wait there. ",
+    "Turn left when you get to the tv and go out the second door on the right then turn left go into the room on the left. Turn left again and go out the glass sliding doors to the balcony. Wait near the couches. "
+  ],
+  "path": [
+    "d28afd8227934d9e9845a151839f2501",
+    "fd23ee9232f54604bda2e7cb0d4055d1",
+    "5f5b895c833b41afb1db0ba29afce147",
+    "ccabfad5dfcd47cd821e57a15a58d55c",
+    "20216703be7341b89b57ea2165e6a9bb",
+    "b3191aeb9a224993b6dd549b8d6a732b",
+    "39a03200d75141b79e1f306fcca75c46"
+  ],
+  "path_id": 2343,
+  "scan": "5LpN3gDmAk7",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 10.39,
+  "heading": 3.811,
+  "instructions": [
+    "Walk right past the metal bench. Turn right and walk through the door. Walk into the hallway across the way. Turn right and then turn left in front of the stairs. Stop in the doorway to the bedroom. ",
+    "Go straight past the black chair on your right. Turn right and go inside. Continue straight into the hallway. Turn right at the first opening then turn left. Wait at the entrance of the room. ",
+    "Turn left proceed to the door and enter the house.  Then walk forward through the first open door.  Then turn right and enter the stairwell.  Then turn left and stand at bedroom entrance. "
+  ],
+  "path": [
+    "82a54d79ddcb4f32b3683acb61c803e6",
+    "6a15f715d61843b2a84845d392ec0b72",
+    "a515a42b3cfa4005affc8b3f14d8ca2d",
+    "e5c88ad5db1a4b3a977455b0c161d792",
+    "de655166da274d40841f1e5e488ab641",
+    "0a796daf5b734fbbb52974e2349a6c0e",
+    "4531a8cd59c7423e8f938bcd905f7b62"
+  ],
+  "path_id": 6305,
+  "scan": "qoiz87JEwZ2",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 15.01,
+  "heading": 1.62,
+  "instructions": [
+    "Exit the kitchen by veering left at the pillar, pass the dining table, then stay to the left and walk down the first set of stairs. Immediately turn left and walk to the stairs, then wait on the first stair on the left. ",
+    "Walk straight and go around the left of the table and chairs. Go straight through the left entryway toward the chair on the wall. Go left down the hallway, and turn left on the stairs before stopping. ",
+    "Take a slight right, and walk towards the round table with white chairs. Walk through the hallway to the left, towards the white chair. Walk towards the stairs, and stop on the first stairs step on your left. "
+  ],
+  "path": [
+    "1535c13966f046a6b91b1ee948d3080c",
+    "1e007e734c6e43ac9b2a8d37531eedcd",
+    "b2ccf1e70dbf487f8f0e1b0827e54014",
+    "b74fe16da1314290afeb10ce7ceae1c6",
+    "a434d2704d9542bf93f1d7cf9ebbdab1",
+    "58cdf4425f984bc8bec9ed57b96feff4",
+    "14f2a8bc76f24d2ea495369bfde2f653"
+  ],
+  "path_id": 6074,
+  "scan": "uNb9QFRL6hY",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 12.72,
+  "heading": 0.103,
+  "instructions": [
+    "Turn 180 degrees and walk down the steps. Turn right at the bench and take two steps. Turn sharp left and walk straight alongside the railings. Turn right into the doorway after the painting on the right side wall. Once in the room, walk into the bathroom doorway to the right of the bed. Wait by the sink. ",
+    "Head down the stairs and go to the carpeted hall on the right.  Go down the hall and turn right into the bedroom that is right before the railing on the left ends.  Turn left into the bedroom bathroom and stop in front of the shower. ",
+    "After you go down the stairs turn slightly right go past the elevator and go into the third door on the right. Turn right and go into the bathroom and wait by the toilet. "
+  ],
+  "path": [
+    "abdb1b4d143e491f8a9350b2fd869122",
+    "cf4babf2d24a44418351494fa1cb5ebf",
+    "9bbc936210084a00ad05856e0f5a3364",
+    "ba692fd9ec524282935a608d975374e3",
+    "f0501ef281ab486eac400af37a580e19",
+    "e968c229f17d4600a704d6197473c5a4",
+    "aaaee36fbfc94d26be1a858fceaa91dd"
+  ],
+  "path_id": 3168,
+  "scan": "D7N2EKCX4Sj",
+  "source": "R2R",
+  "direction_num": 19
+},{
+  "distance": 13.42,
+  "heading": 3.0,
+  "instructions": [
+    "Go forward towards the staircase.  Walk down the stairs, and continue walking down the stairs after the landing.  Once you are at the bottom of the stairs, walk towards the large sliding glass door, with the sitting area on your left.  Stop when you are a few feet in front of the sliding glass door. ",
+    "Walk down the stairs in front of you. Once you are at the bottom, turn left and head towards the door leading outside. Stop right before you get to the door going outside where you can see outside and the closet and window towards your right. ",
+    "Walk down the stairs and turn left.  Walk towards the glass doors on the left side of the wall you are facing then stop. "
+  ],
+  "path": [
+    "cb0762e9b6af4891b7be36942549586f",
+    "88ffbea957e34cd09d0ce2d3290e9694",
+    "ff3ed1ef732845839881115ed38d331f",
+    "fc188c1c407146ce88db33e41d932cae",
+    "01b9f3583d5e45739e01e0b3cfe21c09",
+    "07828abd68f54c2ba9ede7aa649932df",
+    "cfb1d3bfd87d4e87a115ad9553e7a0df"
+  ],
+  "path_id": 2867,
+  "scan": "aayBHfsNo7d",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 12.95,
+  "heading": 3.14,
+  "instructions": [
+    "Move down the stairs and then turn left. Move forward and then immediately turn left into the living room. Continue forward and stop in front of the piano. ",
+    "Walk down the stairs to the bottom. Turn left at the bottom of the stairs so that you are facing the dining area (not the blue hallway) and the large panel of light switches are on your right. Walk forward a short distance until the front door is on your right and a piano is on your left. Turn left and walk towards the piano. Stop in front of the blue chaise long. You will be between the chaise and the stairs you went down earlier. You have reached your destination. ",
+    "Walk down the 2 flights of stairs in front of you. When you get to the bottom look to your left. Walk a couple of steps and turn to your left again. Walk straight to the piano in the living room. "
+  ],
+  "path": [
+    "1239dba1b6234964b420a56d82d79d7a",
+    "6c34dde402304953a9416e2781de607f",
+    "5a72c23b99fa40f1bcd9dfbb60340b05",
+    "cc896d0984cc4661bff9087a0df6967c",
+    "67dd134230034fc18ab8c30abd9af183",
+    "c3c0a1a738a749a7a986d64c872b7671"
+  ],
+  "path_id": 123,
+  "scan": "1pXnuDYAj8r",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 10.09,
+  "heading": 4.783,
+  "instructions": [
+    "Walk out of the room and turn right. Walk down the hall and turn left at the end of the hall. Walk forward and turn right and stop. ",
+    "Exit the room and head down the hall, turning right, then left, then right. ",
+    "Go through the door. Turn right and go down the hallway to the Exit sign. Make a left and go straight until the hallway turns right. Keep doing down the hallway and stop at the first door on the right. "
+  ],
+  "path": [
+    "69be720ef7d542f0ae989a5d7284a9f5",
+    "9a171506cfa84aaf8423148db313595b",
+    "6059bb4895c44f61b181a695404de5b9",
+    "62598b562a764478bc79f602a231f27b",
+    "dc9ce6f3581e4697a60eaace16a05696",
+    "b2420cbe2295499eaa8008d3c446a28d",
+    "3ccaba3056a74ee49cc92cbceab99c47"
+  ],
+  "path_id": 1222,
+  "scan": "B6ByNegPMKs",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.89,
+  "heading": 5.88,
+  "instructions": [
+    "Walk straight behind the two black leather chairs. To your right there will be two doors. Walk through the door on your left. As you walk through the door on the left make a left and walk passed the sitting area and into the kitchen. Turn left at the fridgerator and walk into the laundry area. Wait there next to the sink on your right. ",
+    "Stand with the door going outside to your right and leave the room through the door next to the wooden table.  After going through the doorway, go straight down some stairs and turn left.  Walk to the kitchen area and turn left at the fridge.  Stand in front of the sink and stop. ",
+    "Walk across the room into the doorway to the right of the white desk. Turn left and walk straight through the kitchen area. At the refrigerator, turn left. Walk striaght into the laundry room. Wait by the sink. "
+  ],
+  "path": [
+    "b8d68745ab054a2da8a82de45fce8cef",
+    "7743b72f7c3d40749363873307eef9c9",
+    "c29e99f090194613b5b11af906c47dab",
+    "aa4cfd0126dd4c6a9c533ca9cb4a033d",
+    "5bc41a6e3b7748149e0e8592c5b4d142",
+    "3f432ddd169d4433979e004d1237d029",
+    "3e51eeaac8404b31ad8a950bb2bb953d"
+  ],
+  "path_id": 5771,
+  "scan": "cV4RVeZvu5T",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 6.91,
+  "heading": 1.801,
+  "instructions": [
+    "walk down the stair. turn right. walk towards the statue and go down the stairs. walk toward the stained glass windows. keep walking down the staircase.  walk to the hanging light. ",
+    "First walk down 2 stairs. Stop and after turn to your right 90 degrees. Walk forward until you get to the bookshelf then turn 90 degrees to your right. Walk straight and then after the bust turn to the right 90 degrees once more before descending down the stairs. ",
+    "Turn right and go down the stairs.  Then turn right and go down the stairs stopping on the stairs near the window. "
+  ],
+  "path": [
+    "cd9fd57e2de04c39b87e7fbe92e80a6c",
+    "7fde4f88b5cf4cda9a2f31331fd7ca22",
+    "87e385b82c704a29855826d3cf4f79a0",
+    "082f6f6ac7c241669643586b39ce562b",
+    "f324c5a2e85c4957ae6b9073581f3452",
+    "e7c626147b2247f08ca9422d481b8107",
+    "03ff19f1d0f64700b3b51346cdb554e0"
+  ],
+  "path_id": 4923,
+  "scan": "D7G3Y4RVNrH",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 17.63,
+  "heading": 3.956,
+  "instructions": [
+    "With the painting of the seascape to your right and the farm scene to your left, go forward, then through the arched opening to your left. Upon entering the kitchen, go to the right and past the kitchen. Looking ahead, you'll see a fireplace. On the same wall as the fireplace, there will be an arched opening to the left of the fireplace. Head to that opening and go through it. After passing through the arched opening, go through the door opening to your left. ",
+    "Take a left through the archway on your left going away from the door. Walk past the kitchen and living room. Enter the archway on your left. Take a left into the bedroom and stop in the doorway. ",
+    "Head out the entry way to the right of the large farm painting. Once out turn right and walk to the other side of the living room and out the door to the left of the TV. Once out the doorway turn left and stop in the doorway of the bedroom. "
+  ],
+  "path": [
+    "c2ff31961cd0464d9fd12ba5208ffa52",
+    "ef2b67b567304849bc8724e63f2f2721",
+    "c7c12a431655490198f83edfa2ba64ae",
+    "ece144083db74fd4b97d109d6c920934",
+    "674da2639d0144d795514692931fb8d3",
+    "e4c6ed667e8e43219364bb87076b5909",
+    "d2c0c06ce09249f9a9105fca6ba197b9"
+  ],
+  "path_id": 2538,
+  "scan": "VzqfbhrpDEA",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 11.05,
+  "heading": 4.11,
+  "instructions": [
+    "Turn left and walk past the stairs heading down the hallway.  Then enter the bathroom on your right. Wait by the sink. ",
+    "Go past the stairs on the right and down the hallway. Continue going down the hallway. Pass the fireplace on the right. Turn right and wait near the sink. ",
+    "Walk towards the staircase.  Continue passed the staircase on the right. Walk straight down the hallway beside the room with the double doors. Continue straight down the hallway pass the sitting area and fireplace on the right.  Turn right into the bathroom. Stop in front of the sink. "
+  ],
+  "path": [
+    "feb3e37459f942f98d53eb78d66375f5",
+    "118169c7cc3f488e88a237f10cad437b",
+    "4069c437611e44c69edf8175de76b201",
+    "e1ac54fab83242b889a95320811c68e5",
+    "95a4b136cb854ea585cb23d67e174cb3",
+    "badf87714efc482f936c14de653318e5",
+    "675491e4cc5a459db65fba26b03e6369"
+  ],
+  "path_id": 5066,
+  "scan": "EDJbREhghzL",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 12.4,
+  "heading": 3.464,
+  "instructions": [
+    "Turn left and go straight past the stairs. Continue down the hallway and go into the last door on the right. Wait at the entrance. ",
+    "Walk forward and turn left passing the staircase. Walk all the way forward passing all the picture frames on the right. Turn right towards the room in the corner, and stop there. ",
+    "Walk forward with the staircase to your left. Make a left at the door with the staircase still to your left. Walk down the hallway and into the double doorway on the right. "
+  ],
+  "path": [
+    "3d21f7b1843f4b4c9037b7ed0942dd6b",
+    "ecbf5fbd21624d5d872b17609b6616d9",
+    "d1de344c27c544be87d6705a81aeb732",
+    "9a99ebf7c9e947229e4546d8b30040b9",
+    "f3d04dad3ca84d0c91d16f4d8970bb50",
+    "34ff274015304d918c694178cd41efcd"
+  ],
+  "path_id": 4149,
+  "scan": "SN83YJsR3w2",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 12.98,
+  "heading": 4.968,
+  "instructions": [
+    "Walk out of the gym and turn left in front of the mirror into the bedroom. Turn left past the bench and stop in front of the cabinet. ",
+    "Move forward with the gym equipment to your left and the wall mirror to your right. Pass through the doorway nearest the wall mirror. Turn 45 degrees right and move forward. Stop when you reach the third door to your left and turn left. Pass through the doorway and turn to your right when you pass the bench to your right. Move forward with the bench to your left and the cabinet to your right. Pass through the entryway and stop at the tall wooden cabinet to your left. ",
+    "Face the wall that is covered in a giant mirror, and proceed through the doorway to your left\r\nFollow the hallway until there is a mirror on your right and turn left through the double doors to enter a bedroom\r\nTurn right once you enter the room and proceed into the bathroom until there is a chandelier above your head and two doorways in front of you. "
+  ],
+  "path": [
+    "b764ec949d984ac081ab4d3d1a27ade0",
+    "c897acc78a8e4555b14b85fc32d41f3e",
+    "fff5e96c0ba6429f86d5d8b3a74df5e2",
+    "929158cc8c424c099a601a36e0fc2270",
+    "b18be3157a6f4b9c8df154f8f310099d",
+    "7478c47d6145458d80f89cee31d70fdf",
+    "05c5f3286f8a433ba542fa13ab0a8c7b"
+  ],
+  "path_id": 1967,
+  "scan": "mJXqzFtmKg4",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 11.97,
+  "heading": 3.08,
+  "instructions": [
+    "Face the inside of the house while standing in the doorway. Go into the second door on your right (the further one from the outside doorway). Go down some stairs, and then turn right. Go down more stairs, and then turn left, standing in front of a couch with a red chair and ottoman next to it. ",
+    "Turn around and go in the second door on the right. Go down the stairs, and go down the second set of stairs to the right. Go left down the last couple steps and stop. ",
+    "Enter the house and proceed to the second doorway on your right. Enter the open door and go down five steps. Turn right and go down four steps. Turn left and go down two steps. Stop just as you enter the room and wait there. "
+  ],
+  "path": [
+    "05d8dd39b5de44b58287a6de59cdba37",
+    "5125c4a0a99f45788e694d5a73ba99c7",
+    "c29e99f090194613b5b11af906c47dab",
+    "7d708a5b80ee45979870bae83b2bdd44",
+    "b2af08ee382d4746b235a45d0a7032bb",
+    "28e5a4e93559430aa2cefb654bc3a442"
+  ],
+  "path_id": 4023,
+  "scan": "cV4RVeZvu5T",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 11.42,
+  "heading": 5.061,
+  "instructions": [
+    "Walk out of the closet and through the bathroom. Turn left and walk down the hallway past the fireplace. Turn right past the plants and stop by the chair. ",
+    "Turn to the right, and walk through the open door into the bathroom.  Once in the bathroom proceed forward into the hallway, you'll walk past the black bathroom sink.  In the hallway turn left and walk all the way down to the end of the hallway where there is a flower vase on a table.  To your right will be open double doors leading to a bedroom.  Turn to the right and enter the bedroom.  Once in the bedroom walk to the white doors on the left of the room and stop there. ",
+    "Exit the bathroom and turn left. Head straight down the hallway, then enter the bedroom on the right. "
+  ],
+  "path": [
+    "a1dd7b2789d64b5a8e9adcd864ad9897",
+    "a1b5ae6f5d1b4ed0850441594bb971d4",
+    "675491e4cc5a459db65fba26b03e6369",
+    "badf87714efc482f936c14de653318e5",
+    "95a4b136cb854ea585cb23d67e174cb3",
+    "e1ac54fab83242b889a95320811c68e5",
+    "553465b804fb4fc29bf530f71dfdf1d5"
+  ],
+  "path_id": 6012,
+  "scan": "EDJbREhghzL",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 12.79,
+  "heading": 4.532,
+  "instructions": [
+    "Walk through the front door to the home. Continue down the hall passed the chairs against the wall and turn the corner. Walk through the glass door. Walk through the bedroom and out the other door and into the hallway on the other side. Walk down the hall to the bathroom at the end. ",
+    "Walk towards metal chair and go right. Go towards red bed and turn right. Take next right and go left down hallway to mirror. ",
+    "Walk straight towards the metal chairs, take a left, walk through the double doors towards the red bed, take a right, walk straight towards the desk. "
+  ],
+  "path": [
+    "13c191f506114c73b70830b89e195aa6",
+    "d52aaea9fc6e4d5fbecd0220eb9da436",
+    "4890b24fbb59414892ca854895896126",
+    "37cb64e0cddc4f20b309abc4ff5344c2",
+    "38bb31f87b6d4f19afedea1ad2d232f9",
+    "626c0f49c8cb4d9b93a19215f540d8c7",
+    "206999c99e3b4e748b4b8f23145eed99"
+  ],
+  "path_id": 1599,
+  "scan": "Uxmj2M2itWa",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 11.11,
+  "heading": 4.716,
+  "instructions": [
+    "Exit the closet and continue past all three bathrooms the bathroom. Enter the bedroom. Turn right and enter the office. Turn right and enter the sitting area. ",
+    "You will start in a closet with pants on your hanging on your left. Start going forward. Go through the doorway and past the exercise machine to your left. Continue past the bathroom with the bathtub on the left and toilet on the right into the doorway with the bed. As soon as you get into the bedroom turn right and head into and office with some tablets and chairs on your left. Make an immediate right into a doorway with a couch right in front of you with two windows and two pictures on the walls. ",
+    "exit closet and walk straight through gym and passed bathroom. turn right and enter study, turn right and enter living room, stop at couch. "
+  ],
+  "path": [
+    "7804a496622640ce9d5d79ecdc992254",
+    "6574e941f0be49afa9fd447b99b2e783",
+    "6e5f25022c4d4dbf9a7f35bd77cbf296",
+    "49f26e22f7514331b35d76bc1b8bb9f5",
+    "d2bf18703fd645bcb077523c3c200c30",
+    "f1c9fe4b49c443e891b6ef6b41ec25bc",
+    "771f6afffb0c4e6d9fe9cca06b6a9cbb"
+  ],
+  "path_id": 1672,
+  "scan": "ac26ZMwG7aT",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 12.37,
+  "heading": 4.392,
+  "instructions": [
+    "Walk out of the bedroom and turn left. Walk past the wooden churner and turn left. Walk to the right of the table and stop to the left of the painting. ",
+    "Exit bedroom to hallway, turn left and walk straight down patio, turn left at dining room, wait at entrance to living room. ",
+    "Facing the door furthest from you, walk forward through the doorway, then turn ninety degrees to the left. Continue down the paved corridor until you can enter the dining area to your left through the large opening. Walk past the dining table with the table to your left and stop to the entrance to the room on your right, just past the dining table you just passed. "
+  ],
+  "path": [
+    "f97898ee20f74b2d8627f5065d633d45",
+    "2ebc2682287645efabf7f2319682aab1",
+    "904beb4bca9e4e2b8d15f3af9b70a242",
+    "9c2919ad974d472fa4f97c01005666f0",
+    "fc30206582bb494190095c4439e2da29"
+  ],
+  "path_id": 5317,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 11.09,
+  "heading": 4.728,
+  "instructions": [
+    "Walk down the hallway towards the first exit sign on your right, take a left down the hallway right in front of the exit sign, take a left down the first hallway, stop under the exit sign. ",
+    "Walk across the hall. Turn left on the first hallway to your left. Keep walking and turn left again on the first hallway to your left. Wait there. ",
+    "Go down the hall, make a left, continue down hall until you get to an exit sign on the left, then stop at the exit sign. "
+  ],
+  "path": [
+    "05007a3d6dc2420b960c6dcc2e9b0353",
+    "881a405088944173a5494c9e5145677c",
+    "be7c88ff81f04b52b18125c6c9f4b84f",
+    "3f227a714e3c44aba3a19efe7b8b1681",
+    "19c436824dcf4f4fae134b0dc064a367",
+    "bc57b2c41c444fd6b2da5cfdfaa865a5"
+  ],
+  "path_id": 1203,
+  "scan": "B6ByNegPMKs",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 20.61,
+  "heading": 0.255,
+  "instructions": [
+    "Walk all the way through the room past seating areas. Walk past the mirror and turn left, then right. Stop in the doorway near the light switches. ",
+    "Enter the large living room area and turn right. Move past the table area and enter the hallway. Continue moving forward until the hallway ends and make a 45 degree turn to your left. Continue forward and enter the first door on your right. ",
+    "Go inside the house and turn right, then go past the ding room and past the stairs, then turn left, go down the hall and enter the first room on your right. Wait just past the doorway. "
+  ],
+  "path": [
+    "7b60d70744d344d7b4371d212bca04bb",
+    "057341f7473241849f5307130c5941ee",
+    "5f7a10d0598a492abf7a73b4a7afa7ff",
+    "de0c19e0b79c4db0b3b92b3bf9e33ee2",
+    "87844ca5aad64bf790eb6db57770008b",
+    "6fa724aeeedd448baaef3410230af97c",
+    "ba4dee4c0dd9410480e5ddeb625cdc88"
+  ],
+  "path_id": 305,
+  "scan": "p5wJjkQkbXX",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 16.79,
+  "heading": 2.651,
+  "instructions": [
+    "Turn 45 degrees to your and move into the bedroom. Move forward with the bed to your right. Go toward the doorway with the white chair and footstool to your right. Pass through the doorway and turn 45 degrees to the left. Move forward with the glass railing to your right. Pass through the doorway and turn to your left when you reach the large artwork on the wall. Move through the bedroom with the bed on your right and the black chair and footstool on your left. Stop when you reach the entryway to the outside patio. ",
+    "exit bathroom and turn slight left walking across bedroom to door, turn slight left and walk into hallway left of stairs. continue down hallway, turn slight left and walk forward, walk across bedroom to outside balcony. stop at couch. ",
+    "Go to the right and out the door into the hallway, past the staircase.  Turn left and then left again.  Walk past the foot of the bed.  Just before you get to the door that leads outside, you will stop.  There is a couch and a couple of chairs on the balcony. "
+  ],
+  "path": [
+    "797892fe2c154f389c03ff6e055eca25",
+    "f106c5744f8e444d931ed9bdd12ee3aa",
+    "ccabfad5dfcd47cd821e57a15a58d55c",
+    "5f5b895c833b41afb1db0ba29afce147",
+    "fd23ee9232f54604bda2e7cb0d4055d1",
+    "d28afd8227934d9e9845a151839f2501",
+    "4b1bbb88b7e444a499ac7c261b4495c1"
+  ],
+  "path_id": 1332,
+  "scan": "5LpN3gDmAk7",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 10.18,
+  "heading": 5.474,
+  "instructions": [
+    "Exit the bedroom and turn left. Walk past the stairs, following the hallway to the left. Turn left again and walk past the side table with the lamp. Walk through the doorway and turn right at the next hallway. Wait near the wooden banister. ",
+    "Exit room and walk towards the staircase.  Walk passed the staircase and follow the hallway around. Continue straight passed the lamp on the right and through the open door. Turn right after the first door and stop near the railing. ",
+    "Walk into the hall and past the stairs. Turn left down the hallway past the end table. Turn right past the front door and stop by the railing. "
+  ],
+  "path": [
+    "9e807dab53ce47cd9ba4e38918e854d1",
+    "5ee0bb94477840b8889ab493404d9161",
+    "b36e7fd7a96b44b79bd7e94f9bf75c91",
+    "050910e36ac9414c91bb44d962153689",
+    "7b708eb6eca54256976220baf01508de",
+    "9bf70d9f93b9443c89b19bfd9503a56a"
+  ],
+  "path_id": 5391,
+  "scan": "SN83YJsR3w2",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 14.29,
+  "heading": 3.789,
+  "instructions": [
+    "Walk out of the bedroom, slightly left down the hallway. Turn slightly right towards the flight of stairs. walk past the stairs onto the rug and turn left. Walk through the doorway to the outside and stop once you are past the black mat. ",
+    "Take a left in the hallway and go past the stairs. Take the first left past the stairs and go outside. ",
+    "Head out the door on your right and down the hallway. Keep right past the stairs. Turn left and exit the wood door leading outside. Stop when you are right outside the door facing the street. "
+  ],
+  "path": [
+    "ba4dee4c0dd9410480e5ddeb625cdc88",
+    "6fa724aeeedd448baaef3410230af97c",
+    "87844ca5aad64bf790eb6db57770008b",
+    "de0c19e0b79c4db0b3b92b3bf9e33ee2",
+    "fe9dd44381fe4a4f8d329ddf3d8582ac",
+    "ee82e12abf7d4665b54b4301e749876a"
+  ],
+  "path_id": 2760,
+  "scan": "p5wJjkQkbXX",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 15.04,
+  "heading": 4.362,
+  "instructions": [
+    "Walk forward towards the circular desk. Go forward, staying to the left.  Proceed until you pass the sign on the floor. Move forward between the two planters to the furthest right. Change direction and while going to your right, go on into that room until you  are even with the end of the desk on your left. Stand here until you hear otherwise. ",
+    "Walk past the front desk and then down the hall to the left.  Then enter the shop to the right. ",
+    "Walk past the desk station on your left and make a left. Walk past the large vases on the right and make a right through the glass door. Walk into the room with the products. "
+  ],
+  "path": [
+    "5fb9a0b5b9794fb290f15e050d81d5bb",
+    "2bf2e4eb6fbd490b95540647ecb4f708",
+    "74b06bb5be1945f99ceacd2687aaa74f",
+    "e5e1301c040f4617b2e9512bc4fb1c78",
+    "336a502a339541dfb5932e19b0546819",
+    "efd08e9fd6e84cfcb3aee4af348a0aa8"
+  ],
+  "path_id": 5096,
+  "scan": "ur6pFq6Qu1A",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 16.27,
+  "heading": 5.467,
+  "instructions": [
+    "Enter the room to your left. Walk into the room and head just past the white table and head outside to the patio.  Turn right a walk in front of windows.  Stand by the windows. ",
+    "Walk through the open wooden door in front of you.  Keep walking forward, going directly to the white table in the middle of the room and go around it to the left.  Once on the other side of the table keep walking forward to the closed wooden door.  Open the door and exit onto the terrace looking at the four chairs.  Walk forward and turn right when you get to the chairs, and walk to the hallway.  There is a statue of a dog near the hallway entrance.  Walk three feet down the hallway and stop. ",
+    "Go through the double glass doors that have a staircase leading downwards just outside them and to the right. After going through the doors, pass by the stairs leading down on your right, continue forward and pass by the stairs leading up on your left. Continue forward until you reach a massive wooden door flanked by windows to its' left and right. Go through the door and turn right. Continue forward until you pass from under the roof covered area. "
+  ],
+  "path": [
+    "d1944c69bc814160a0786756186f0e90",
+    "f4ba8b92d7534b83ade9b8b548d1a17d",
+    "b0bd6b4e8028490e84446f41ddcd9f78",
+    "817592f1e67c4869b8490ff6ae8af258",
+    "ca9b27594a42478194e66ccf076fd73a",
+    "a408da1db2024ee0b2ef470e3a85153d",
+    "0a5f2a70a55e44428bd645c745920e3d"
+  ],
+  "path_id": 6658,
+  "scan": "SN83YJsR3w2",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 14.68,
+  "heading": 4.764,
+  "instructions": [
+    "walk down hallway towards stairs, walk down stairs, continue straight, walk down more stairs, turn right and walk down the rest of the stairs, turn left, walk straight and turn right and stop in front of stove. ",
+    "Go straight down the stairs and go left into the kitchen. Stop by the oven. ",
+    "Go down the stairs directly ahead. Head all the way down the stairs to the bottom floor. Turn left. Enter the kitchen. Wait by the stove. "
+  ],
+  "path": [
+    "57aa6e04ceb34e878125793bc9074a44",
+    "efaf68f3964f4cda858a98f265e6feb9",
+    "de07fa6aafd04c698dbc2dd9cdae9948",
+    "6268c4082bdf4f029898a13ca335a8a1",
+    "3187b9296abe47c68fc0e8bab7edfb36",
+    "452f930d3b20485088ca14b716189512",
+    "afc1807e6a1946b79137c1a158526913"
+  ],
+  "path_id": 4639,
+  "scan": "b8cTxDM8gDG",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.14,
+  "heading": 0.959,
+  "instructions": [
+    "Go left into the foyer toward the white door on the left. Go into the room with stairs, turn right passed the stairs and keep going straight, then turn left to go down the hallway, then turn right into the dining room, then stop. ",
+    "Walk into to the foyer and take a left. Enter the room with the stairs on the right. Veer right down the hall. Enter the dining room which is first on the right. Stop once you step on the rug. ",
+    "Go into the open room with white flooring. Turn left, then go through the second doorway on the right. Walk past the stairs. Go through the doorway just past the art piece of a dancer. Stop on the black and white rug, next to the long wooden dining table. "
+  ],
+  "path": [
+    "e2191119aba24d3d9326ff49c302f1f8",
+    "091d2e9f7efa40e48732b0e02612f8cb",
+    "ba47fad63d3945a4ba9ce229b8382d56",
+    "5abb17a8029d49f1b8d1e78a88a5176c",
+    "7459a6c7c6ac4f879c5210bfbd0e823d",
+    "8f35304283a14f6191d27d520a3d006b",
+    "559da08fac6c478385047db40fdeb6c8"
+  ],
+  "path_id": 3984,
+  "scan": "VFuaQ6m2Qom",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 14.99,
+  "heading": 2.711,
+  "instructions": [
+    "Enter the large living room. Turn left and go past the grey couch, past the brown couch and to the door on the left. Enter the bathroom and face the window. ",
+    "Walk forward into the living room and take a left. Walk straight past the kitchen and take the first left after the patio. Enter the patio kitchen and stop once you are in the room. ",
+    "Go straight down hallway, turn left towards the kitchen area, walk straight passed the kitchen towards the doorway, take the first left into the outdoor/indoor kitchen area. stop beside the sink. "
+  ],
+  "path": [
+    "767338ad85174714a86e1e60a866a829",
+    "d35571d078954f8d89dcc1c79d91674c",
+    "418fb1f91e9543aab0c4205a90ce217d",
+    "d3c1b1ed115c4034be5946179563ff22",
+    "5e8accac78704491a88a1aad7cb00d05",
+    "858d6ec47f1045bbb9f2e5e0e1b380ae",
+    "17535b07dd374560a191b4e0d092b479"
+  ],
+  "path_id": 1844,
+  "scan": "p5wJjkQkbXX",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 11.0,
+  "heading": 1.595,
+  "instructions": [
+    "Exit the bathroom by the door that is closer to the toilet.  Make a left and walk down the stairs.  At the first landing, make a right, and continue to walk down the stairs.  At the second landing, make a right and continue down the stairs.  Stop at the bottom of the stairs. ",
+    "Exit the bathroom. Turn left and go down the steps. Turn right and continue going down the stairs. Stop two steps from the bottom. ",
+    "Exit the bathroom. Turn left. Walk down the stairs to the landing. Turn right and continue down the stairs to the next landing. Turn right and walk down the rest of the stairs. Wait at the bottom of the stairs. "
+  ],
+  "path": [
+    "dcbdda428eb846a586886b87d9552d0e",
+    "17ebd8e343c247dd845f76a586f8cf08",
+    "f3914b4071b7408c843d4d45a7370be2",
+    "de07fa6aafd04c698dbc2dd9cdae9948",
+    "6268c4082bdf4f029898a13ca335a8a1",
+    "3187b9296abe47c68fc0e8bab7edfb36",
+    "357424fc423a4e978fa88a8e4d3bed78"
+  ],
+  "path_id": 6358,
+  "scan": "b8cTxDM8gDG",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 11.27,
+  "heading": 1.564,
+  "instructions": [
+    "Walk forward and enter the door that is straight and in front of you at the end. Walk inside the room, and turn left. Walk forward towards the bed and turn right towards the door in the center, not the corner, and stop there. ",
+    "walk away from rug, turn slight right at giant 1, walk through doorway to left, turn left, turn right and walk towards foot of bed, stop in first doorway on right. ",
+    "Turn left, and head between the stairs and the wall.  Head down the hallway toward the center door and go through.  Enter the room, turn right, head toward the bed, and turn right again.  Enter the closet through the door in front of you. "
+  ],
+  "path": [
+    "a2131c9b8e674c3db73821fb924f1644",
+    "cd289dfb2a4d4161ab18c8b0e7889f0d",
+    "6bd6fde111574af289492ba17859be83",
+    "dcbc89b871b54cdd98d8b59b700d44a3",
+    "ba3d3163aa4a4211a0bda0b7adf07b60",
+    "eb3774d7d7c9470ca3ef2727c4cb58a7",
+    "76ca01da5d454acab14017ac9b27ba76"
+  ],
+  "path_id": 4707,
+  "scan": "PX4nDJXEHrG",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 12.13,
+  "heading": 0.987,
+  "instructions": [
+    "Walk straight between a wall on your left and two potted plants on your right. Continue about 5 meters and then just after you pass a white iron fence on the left, you will turn slight right through the open door. Turn slight right again and then walk straight, past the wood and glass bookshelf that will be on your right. After the end of the bookshelf you will see a door on your right, and just past that you will notice the walls become all cinderblock as you walk down four steps and enter a hallway. Turn left through the first open door on your left, and walk through the door about 05.-1 meter. Stop. You will be looking at a narrow but long room with a blue fabric couch on the left and a desk and bookshelf on the right. ",
+    "Head indoors, walk across the room, walk down the steps, turn left and stop by the table. ",
+    "pass floor plants and exit through door, go downstairs and enter room on left. "
+  ],
+  "path": [
+    "9f87a56612484ddd9784377af43f9b51",
+    "d1a56fbfc2a44566aff53cab76124e44",
+    "6c7301f898ff4b4c9d915dfbe887d507",
+    "49913376d9ab471a8fce92a8edc786b9",
+    "1226e70df8e44d6596ea46945a62f689",
+    "18e3c05b91774b1b9200fa4b1966bf74",
+    "89eeae92b2fe4b68abb274970a931608"
+  ],
+  "path_id": 1503,
+  "scan": "82sE5b5pLXE",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 10.52,
+  "heading": 1.559,
+  "instructions": [
+    "Turn and walk down the hallway past the staircase. Continue down the hall around the corner near the potted plant. Walk up to the next open door on the wall with a bathroom inside. ",
+    "Walk straight ahead, veering to the right to avoid the stairs.  Go past the potted plant and into the first doorway on the left.  Stop there and wait. ",
+    "Walk forward staying to the right and moving towards the stairs. Turn right when you reach the stairs (don't go up or down the stairs). Go past the staircases and forwards towards the room with the double doors that have the horizontal openings. Turn left while you are still in this hallway (Don't go through the double doors). You will be just past the double doors and facing a large potted plant. You should go slightly right towards the small two paneled door that is visible to the right of the potted plant. Stop when you are just outside this room, which is a small half bath with a vessel sink. "
+  ],
+  "path": [
+    "7c41f500f2ce4b7a9916e292221a7740",
+    "32e63bf1d88e47328ca6be71b5ac2b35",
+    "ee987ba0e8ee44c1a95ff0f958f31791",
+    "9bd6013e7ccd46c28789c54605a56151",
+    "c662afaab01a4c338d739c7600478db2"
+  ],
+  "path_id": 61,
+  "scan": "PX4nDJXEHrG",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 15.1,
+  "heading": 3.14,
+  "instructions": [
+    "Walk to the left of the desk past the plywood storage bin. Walk past the desk and chairs. Walk down the Stairs to the right. Walk around the easel and stop. ",
+    "Walk toward the table. Take a left and walk toward the next table on the left. Exit through the doorway to the left of the couch. Turn right through the archway. Wait there. ",
+    "Go towards the desks and make an immediate left, go straight passed the desks on the right, go through the doorway on the right, down the stairs, and then make a right and wait near the entrance to the toilet. "
+  ],
+  "path": [
+    "83404d7a12fc4749bf0cfff1e1e07987",
+    "5377d17e2a4d4a28abf16709e02e97a9",
+    "cdf8c27ef42e466d90f49aca714a048b",
+    "e48486bb391449b2becb28faf44e515a",
+    "8ae0426af8824849ba75a6147325c30c",
+    "6e31c6927a6948a7a32918d626028b8d"
+  ],
+  "path_id": 3362,
+  "scan": "ZMojNkEp431",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.74,
+  "heading": 4.558,
+  "instructions": [
+    "Go straight then turn left and go into the door on the left. Head straight until you get to the end of the hallway and turn left on the last left then stop. ",
+    "exit lobby to the left, turn hard left and enter first door continue straight to bathroom, turn slight left and stop in front of bathroom stalls. ",
+    "With the desk to your right, walk straight a few steps and then turn left and go through the door to the left of the circle shaped lights.  Enter the locker room area and walk straight through until you get to an area with toilet stalls on the left.  Stop in front of the first toilet stall. "
+  ],
+  "path": [
+    "2bf2e4eb6fbd490b95540647ecb4f708",
+    "5fb9a0b5b9794fb290f15e050d81d5bb",
+    "3d69c33d27904da6a126c430cb3eab81",
+    "4b05fd2202d94a15a1fc8ac641178b7b",
+    "e712e90c48dc4baf9261c51ffc15660b",
+    "e2141db9eb994d8a96ee98faab26bbd4",
+    "a4755f88913d48a885da112031e73536"
+  ],
+  "path_id": 2105,
+  "scan": "ur6pFq6Qu1A",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 19.51,
+  "heading": 5.865,
+  "instructions": [
+    "Walk past the foot of the bed on the right. Walk past the TV on the left. Exit the bedroom. Walk past the half wall on the right. Wait at the landing on the top of the stairs. ",
+    "Walk across the bedroom to the other side. One the other side, turn right and exit the room into the hallway. Walk forward until the railing stops and then turn right and stop at the top of the stairs. ",
+    "Walk past the bed then turn right and go out the door on the right. Walk straight until  you get to a painting of a lady and watermelon on the right. Turn right and go down two steps of the stairs. Wait there. "
+  ],
+  "path": [
+    "c4ce11a276904bf38fe049e67b6c5f7a",
+    "27b904430e4e48acb818e2ab80f183e3",
+    "0672a86275c14b148e8618ecde714e06",
+    "837b0a58fa8b4820a3c07e0c89ccfc60",
+    "b5b07238f2f94494b5d16390855584cb",
+    "1c2209fa44fc48c7b7ce7981bafc4ccf",
+    "f1b191033043441987b8ebf1bb55002c"
+  ],
+  "path_id": 5766,
+  "scan": "JF19kD82Mey",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 12.07,
+  "heading": 5.925,
+  "instructions": [
+    "go straight through the door then right. go down the stairs on the right then turn left. stop at the large door on the right. ",
+    "walk through the doorway on the left of the large painting turn right in the hallway, walk to the top of the stairs, turn right and walk down the staircase, turn left, walk down the rest of the steps and stop. ",
+    "Exit the bedroom and turn right. Walk down the hall and proceed down the stairs on your right. Wait in the foyer near the welcome mat. "
+  ],
+  "path": [
+    "50df19b5012e4451870d16320747ff9b",
+    "3429ecc6a320475fada43d43848b9aae",
+    "b6c62c6714d44a7080c83ec374607bcb",
+    "4291cbfde1024467b1548934653f07ce",
+    "b6dea13e3e414d718e5977ae827651ca",
+    "cd200cef3d824df19eadb99c5224e733",
+    "3ef76f35c6ae4ee6a69122e2413900e5"
+  ],
+  "path_id": 2272,
+  "scan": "7y3sRwLe3Va",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.45,
+  "heading": 4.733,
+  "instructions": [
+    "Walk straight down the hallway until you get to the room with the high ceiling.  Turn ninety degrees to your right.  There is a large couch and a fireplace in front of you.  Walk between the couch and the fireplace.  You will pass a ficus plant on your right.  When you reach the hallway on your right, turn so that you are looking down the hallway.  Enter the hallway, and stop when there is a staircase on your left. ",
+    "Walk down the hall then turn right and walk past the fireplace with the TV above it. Stop at the bottom of the stairs. ",
+    "face outside, turn left and walk down hallway towards two chairs, turn right to and walk in between fireplace and couch to the left, walk through arch towards the right after the plant and stop at the base of the stairs. "
+  ],
+  "path": [
+    "d7e72b80531c417095989e69398cf1d8",
+    "3fe15c0ca3734249b98f3465e612b8db",
+    "3b1e1e0fc3de4418b73673c25ca83431",
+    "71c368170cd24345ac3dd89c51ca33ef",
+    "89930128220c45b8bb04c3d3990b202c",
+    "5530eac6cc8540a8ba22d50487a5dd2f",
+    "57f69b8347254b6d8211063688b39e56"
+  ],
+  "path_id": 4012,
+  "scan": "vyrNrziPKCB",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 7.3,
+  "heading": 4.419,
+  "instructions": [
+    "Make a hard right. Make a hard right. Walk past the fireplace on the left. Walk past the round table on the right. Walk past the fireplace on the left. Wait at the wall mirror to the right of the french doors with green glass. ",
+    "Go straight past the two fireplaces on the left. Wait near the three chairs on the left. ",
+    "Turn 180 degrees to face the room with the fireplace. Walk forward past the fireplace. Continue down the red carpet past the stanchions. Stop in front of the double doors. "
+  ],
+  "path": [
+    "b4e027328a1b492e85e269df23fef364",
+    "19c60ba074144f09ba124adef82ef7fa",
+    "b109cc5c9d3648e18077568789335d07",
+    "69b8eb3000854ba48b2882a35f125af5",
+    "f7787c614a464923980e18fdb980f6e7"
+  ],
+  "path_id": 6401,
+  "scan": "VLzqgDo317F",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 14.15,
+  "heading": 6.265,
+  "instructions": [
+    "Turn right and then turn left. When you get to the plant turn left and go into the room on the right. Turn right and go into the double door on the right. ",
+    "Turn around and walk toward the stairs. At the stairs, turn right and walk towards the double wood doors. Turn left and keep walking until you reach the end with the fake tree. Turn Left and then right to enter the double white doors leading into the bedroom. Turn right inside the bedroom and then stop facing into the closet door to your right. ",
+    "Turn right to steps. Enter right. Turn left. Go forward. Turn left and enter bedroom. Turn right and enter closet. "
+  ],
+  "path": [
+    "3229309326224f1b93f98c1ed36594da",
+    "32e63bf1d88e47328ca6be71b5ac2b35",
+    "ee987ba0e8ee44c1a95ff0f958f31791",
+    "8d2813d7fcef4b1baaf6fd9e481bf0e0",
+    "3389b852c9c84bbeb9855d46d3637a1d",
+    "0bee565558544262b0368f2a92702677"
+  ],
+  "path_id": 4544,
+  "scan": "PX4nDJXEHrG",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 8.22,
+  "heading": 1.262,
+  "instructions": [
+    "Turn around to walk out of the closet towards the mirror and hallway. Turn right to walk towards the stone floored area. Walk forward into the stone floored area and towards the zebra picture. Turn left and then immediately right to walk into the short hallway with the long glass topped table. Walk forward down this hallway toward the small tan fabric and dark wood chair. Turn right to walk through the small door into the laundry area. Stop when you are right inside this area, right next to the door handle and facing the sink and washer/dryer. ",
+    "Turn around and talk out of the closet toward the mirror.Take a right the slight left toward the cupboard.take a right into the laundry room and stop at the door. ",
+    "Leave the closet an take a right. Exit the door there and enter a hall. In the hall go straight and veer left towards the credenza, and enter that hall. Enter the laundry room through the door that is the first on your right. Stop in the laundry room next to the door. "
+  ],
+  "path": [
+    "942b118a4bc64ec898ed9c6fd4b85edb",
+    "4262bd54789f4caf839be008248e4d90",
+    "b2f31140a9d0482096da4ac481fb8a56",
+    "b09e4d4c48154b58914cf98dc3d8983a",
+    "fa2cbbb20350430bb00b7039031111a7",
+    "f29cfc331fc44746a060813f1e9ef52c",
+    "1892385477bd4362b8a1d03861169db0"
+  ],
+  "path_id": 1953,
+  "scan": "JeFG25nYj2p",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 13.91,
+  "heading": 4.776,
+  "instructions": [
+    "Turn right, go down the hallway until you come to the end and then make a right, go down the hall passed the door brown doors on the right, right after the second door go right into the office room. ",
+    "Head past the exit sign and turn right. Go past the open doors on the right and left, continuing down the walkway.. Turn right at the exit sign. Go down the walkway. And stop at the open door kitty-corner from the \"enerskin\" office. ",
+    "Turn right out of room. Head straight before turning right. Stop at doorway to room with desk and chairs. "
+  ],
+  "path": [
+    "bc57b2c41c444fd6b2da5cfdfaa865a5",
+    "19c436824dcf4f4fae134b0dc064a367",
+    "3f227a714e3c44aba3a19efe7b8b1681",
+    "be7c88ff81f04b52b18125c6c9f4b84f",
+    "881a405088944173a5494c9e5145677c",
+    "05007a3d6dc2420b960c6dcc2e9b0353",
+    "d57f3fb1653949b381ff1b725da842b7"
+  ],
+  "path_id": 3265,
+  "scan": "B6ByNegPMKs",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 15.0,
+  "heading": 4.45,
+  "instructions": [
+    "Go into the hallway and go to the right and down the hall. Make a left into the dining room, go past the table and turn tight into the living room. Wait between the armoire and the fireplace. ",
+    "Exit bedroom. turn right and walk down hallway. Turn left into dinning kitchen area, exit dinning area and turn right into  living area and stop by storage armoire. ",
+    "Walk through the door with the bed on your left. Make an immediate right and into the hallway. Walk down the hallway with the windows to your right. Make a left passing the dining table to your left. Make a right and walk towards the large sofa. "
+  ],
+  "path": [
+    "abfdb9e245524fac9a1f70419788b6bf",
+    "2ebc2682287645efabf7f2319682aab1",
+    "904beb4bca9e4e2b8d15f3af9b70a242",
+    "9c2919ad974d472fa4f97c01005666f0",
+    "fc30206582bb494190095c4439e2da29",
+    "bbbe225834074bb0a3fb31a3e1e80685"
+  ],
+  "path_id": 5001,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 16.32,
+  "heading": 1.95,
+  "instructions": [
+    "Go down the stairs and turn right then go straight until you get to a room with a red comforter then turn right and go into that hallway and turn left and go into the bathroom. Wait by the clear sink. ",
+    "Walk down the stairs to the orange chair that is the furthest on the right.  Turn right and walk down the hallway.  Walk into a bedroom and turn right.  Go around the corner past the shelves and stop in front of the vanity with a makeup mirror. ",
+    "Turn around and go towards the door leading outside past the orange chair on the right. Keep walking past it and enter the next glass door into the bedroom. Once in the bedroom, turn right and then right again to enter the bathroom. Once you reach the wall, turn left and walk towards the mirror. Stop in front of the mirror and the sink. "
+  ],
+  "path": [
+    "bbfd4eb3b8d646a1bcb815d63dbf0fe2",
+    "8fe0b78b55964b8dabd6ea8693f87ec8",
+    "d573afade1c74167ac0d0b1a2e37ddc4",
+    "37cb64e0cddc4f20b309abc4ff5344c2",
+    "38bb31f87b6d4f19afedea1ad2d232f9",
+    "626c0f49c8cb4d9b93a19215f540d8c7",
+    "206999c99e3b4e748b4b8f23145eed99"
+  ],
+  "path_id": 3418,
+  "scan": "Uxmj2M2itWa",
+  "source": "R2R",
+  "direction_num": 19
+},{
+  "distance": 11.38,
+  "heading": 3.789,
+  "instructions": [
+    "Exit the room. Turn right and go straight down the hallway. Turn right and go into the room. Go past the bed and turn left into the second room on the left. Wait there. ",
+    "Go into the hallway and go right.  Go into the first door on the right and into the bedroom.  Walk past the foot of the bed and through the door on the left.  Stop in front of the sink and mirror in the bathroom. ",
+    "Walk out of the room and turn right. Walk down the hall and turn right into the bedroom. Walk past the desk and chair  and turn left into the bathroom. Stop in the bathroom. "
+  ],
+  "path": [
+    "ba4dee4c0dd9410480e5ddeb625cdc88",
+    "5da6b235e84743968b6f0b1bd75e250d",
+    "6f5ab0712f694551a26278f5ace7a68c",
+    "2c25ceddf2aa4f6182a84f2668b6635b",
+    "e61a450ffbe3472795b6559f3f36c211",
+    "a36d93ad718a4c18ae37b5b7e8b393ff",
+    "a819af38ac3f4e54b7cdc834c04a1d05"
+  ],
+  "path_id": 5991,
+  "scan": "p5wJjkQkbXX",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 11.23,
+  "heading": 4.245,
+  "instructions": [
+    "Take a step forward off the stairs.  Turn to the right and walk in front of the couch. Walk forward and face the hallway to the right. Wal down the hallway into the living room. ",
+    "Walk down the stairs an take a right into the foyer. in the foyer walk toward the living room, but take a right instead of entering the living room. take another right and enter the room with the television. Stop once you enter the room and stand in the doorway. ",
+    "Step forward and turn to the right.  Walk through the room between the two couches.  Turn right past the couch and walk down the narrow hallway.  There is a doorway with stairs on your right off the hallway.  Walk past that doorway.  Enter the room with the wood floor in front of you and stop in front of the grey couch. "
+  ],
+  "path": [
+    "505e4b7e84284f5da963ff84b8bac44c",
+    "82aa04ad31f640f09a9d7aa4a6fd224e",
+    "fa60177899f4443c920a4f7c86f25643",
+    "091d2e9f7efa40e48732b0e02612f8cb",
+    "64ed61c6e14348b683954265ab72ed55",
+    "be9dc4c557ab45b19477fb63e382555a"
+  ],
+  "path_id": 357,
+  "scan": "VFuaQ6m2Qom",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 18.67,
+  "heading": 5.051,
+  "instructions": [
+    "Go to the left toward passed the round desk. Go left, down the hallway, through the glass doors on the right, and stop passed the desk on the left. ",
+    "Exit the bathroom and walk straight past the front desk. Turn left at the end of the desk into a hallway. Walk straight past two black urns until you see large black urn in front of you. Turn right in to the next room and wait in the center of it. ",
+    "Turn left and walk towards the reception desk.  Go past the desk and down the hallway entering the open glass doors to your right.  Walk into that room and stop just inside. "
+  ],
+  "path": [
+    "5599aea13f234660827b11cf081cfc5d",
+    "5fb9a0b5b9794fb290f15e050d81d5bb",
+    "2bf2e4eb6fbd490b95540647ecb4f708",
+    "74b06bb5be1945f99ceacd2687aaa74f",
+    "e5e1301c040f4617b2e9512bc4fb1c78",
+    "336a502a339541dfb5932e19b0546819",
+    "efd08e9fd6e84cfcb3aee4af348a0aa8"
+  ],
+  "path_id": 6653,
+  "scan": "ur6pFq6Qu1A",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 18.26,
+  "heading": 2.717,
+  "instructions": [
+    "Turn around to leave the room. Walk down the hall and turn right at the large doorway across from the water fountain. Walk towards the stars. Walk past the stairs to the space on the right. Walk under the stairs. Turn right and stop halfway down the hall. ",
+    "Leave the bathroom and take a right into the main room. Walk past the service buffet table  and stairs, and take the first right. Stop in front of the bench below the bridal room sign. ",
+    "Exit bathroom to hallway. turn right and enter main lobby. Turn left and walk towards room with stairs on the right and hanging lights. Turn slight right walking passed white table to hallway on right. Turn right and walk down hallway. Stop at the bench. "
+  ],
+  "path": [
+    "16c5a8f68e1242889dcb3854090c7a86",
+    "77cfb227d30443428d4c7787a3da713c",
+    "06c88433ed80477f90bd50f8dc25e7de",
+    "fa1f118c0f924788aa7ea44f690a054f",
+    "ccfc7026f4c6494ca251076c85aa906c",
+    "17be6f4e233546548c6c03fef0459044",
+    "35b3d70f47994598aedb510108752797"
+  ],
+  "path_id": 1919,
+  "scan": "r1Q1Z4BcV1o",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 10.36,
+  "heading": 3.077,
+  "instructions": [
+    "Walk down the stairs and continue down the hallway that is ahead and to the left. Walk past the stairs and turn left. Wait near the doorway to the bathroom in the next hallway. ",
+    "Turn around and walk down the remainder of the steps, head slightly to the left and then make your way through the door, continue to walk until you see a door, turn hard left towards the door and stop. ",
+    "Continue down the stairs, then take a dogleg to the left to continue down the corridor. Keep going forward past the stairs leading downwards on your right. When you can go to the left towards the bathroom, step through the opening and then stop. "
+  ],
+  "path": [
+    "e9c47a2ac68742568f5f17b65ebf711e",
+    "5fd8f08588784e838f3f2f4b200e2982",
+    "4a99828d1950407e8181abca13717987",
+    "dbc790464a2d4f509490033ac0cdffb0",
+    "cbc9652650d44dac8c2652a0ce1cb7f7",
+    "4350d36797324601adba7351d09602d2",
+    "6cd8366dfa39465fb61693361c81e8e3"
+  ],
+  "path_id": 6957,
+  "scan": "rPc6DW4iMge",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 13.48,
+  "heading": 2.46,
+  "instructions": [
+    "Turn left and exit the bathroom. Once out walk forward past the stairs. Go across the living area, past the fireplace and then turn right into the hallway.  Enter the first door on the left with the handicap sign beside the door. ",
+    "Exit the bahtroom and make a right out of the bedroom and into the main living space. Continue walking to the area infront of you until you can see the doorway on the right hand side of the two plaid chairs. Once in the doorway make a right down the carpeted hallway and into the second door on your left. Wait there. ",
+    "Exit the bedroom through the door on the right. Continue forward past the stairs on the left and the fireplace on the right. Turn right at the curio cabinet and enter the first door on the left. Wait in the bedroom doorway. "
+  ],
+  "path": [
+    "55e4975d424c416691d6035030cc09be",
+    "9224c582bc934d6ab146f7e624b0bab7",
+    "cf4babf2d24a44418351494fa1cb5ebf",
+    "0e8e2c9d09974dab977c1d3868286f12",
+    "9766d89c21094c5b872be3a378d4cbad",
+    "7f39d79ddfec4b6e9c98e51576d59ab1"
+  ],
+  "path_id": 5699,
+  "scan": "D7N2EKCX4Sj",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 14.7,
+  "heading": 4.392,
+  "instructions": [
+    "Go down the hallway and turn left when you get to a door. Pass one pot with a plant and before you get to the second one turn left on the second entrance. Pass the table and chairs and turn right. Head into the living room and wait by the fireplace. ",
+    "Keeping the light switch to your right, move forward on to the stone floor. Remaining on the stone floor, pivot to the left and continue to move onward. Walk past the two butter churns on the left, then again veer to the left. Enter the dining room and traverse it, keeping to the right side of the table. On your right is a doorway to the living room. Advance until you're even with the corner of the cabinet on your left. Remain standing here. ",
+    "Walk out of the small room, into the hallway with the brick floor.  Walk down the brick hallway, past the wooden equipment and turn left into the dining room. Walk past the dining room table and turn right into the next room.  Stop and wait in the next room, next to a tall cabinet and the fireplace. "
+  ],
+  "path": [
+    "f97898ee20f74b2d8627f5065d633d45",
+    "2ebc2682287645efabf7f2319682aab1",
+    "904beb4bca9e4e2b8d15f3af9b70a242",
+    "9c2919ad974d472fa4f97c01005666f0",
+    "fc30206582bb494190095c4439e2da29",
+    "bbbe225834074bb0a3fb31a3e1e80685"
+  ],
+  "path_id": 3062,
+  "scan": "759xd9YjKW5",
+  "source": "R2R",
+  "direction_num": 18
+},{
+  "distance": 10.7,
+  "heading": 1.777,
+  "instructions": [
+    "Go towards the pool and then go to the left of the pool, go straight towards the diamond shape on the wall, turn right through the way and then left, and stop near the plant. ",
+    "Head in towards the pool and turn left, to pass by the pool with the pool towards your right. Continue forward and take a dogleg to the right to enter an alcove with a door to your left and an other door to your right, both leading to a massage room. ",
+    "Turn left, and pass the pool on your right. Keep walking forward, and then turn right towards the pool corner. Walk a bit, and turn left immediately. Stop in front of the big rectangular mirror. "
+  ],
+  "path": [
+    "d950fc211fc745d9a8e2080f6ce747d2",
+    "d0f90601ac1b46fdb7258c230495f8a0",
+    "d8f7db8824674725a8334d3554cda5bf",
+    "e396f6fa366b419ba059e65d728e20f1",
+    "32ddd1485c98480f9a6ecd24ace5d49f",
+    "04dba6ce40274f9b80f8e18eb201d33b"
+  ],
+  "path_id": 5650,
+  "scan": "r47D5H71a5s",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 12.95,
+  "heading": 4.779,
+  "instructions": [
+    "face window to outside, turn right to walk down hallway, turn right at banister, turn left and walk towards pool table, turn right before you pass the pool table, and left again, walk past the pool table, turn right and walk through doorway to bedroom, stop. ",
+    "Turn left and walk until you reach the black railing and turn right. Walk to the other side of the pool table and enter the door on the far left to the right of the TV.  Stop when you enter the bedroom. ",
+    "Face the window and turn to the right. Walk straight down the hallway. When you come to the split in the walk way go right. Walk passed the stairs on the right and the pool table on the left.  A the end of the pool table enter the first bedroom on the left. Stop inside the doorway. "
+  ],
+  "path": [
+    "f6458019ed794e9e9b1ab46c800284c2",
+    "678feb6bbe4745acb80e2a50b6dd9f5a",
+    "d2b20ac1680c40799005e91dd3a37de6",
+    "2c7c681379454742bcbf70a2391077d5",
+    "468dc41d313746d0a4bcda690794d9bb",
+    "de4d37507ef94c05b71156cdb6af3067"
+  ],
+  "path_id": 4753,
+  "scan": "vyrNrziPKCB",
+  "source": "R2R",
+  "direction_num": 20
+},{
+  "distance": 17.68,
+  "heading": 5.915,
+  "instructions": [
+    "Walk straight ahead going past a long table on your right. Once you pass the long table, turn right and walk towards the door to go outside. Once you reach that door, turn right into the Bridal Room. Stop inside the room facing the bathroom. ",
+    "Go straight and pass the stairs on the right then pass the fireplace on the left. After you pass the fireplace turn right. After you pass the black bench on the right turn right then and go into the room. Wait by the white sofa. ",
+    "Walk towards the wood tiling. Turn right past the table with the white cloth. Walk past the long, black bench. Turn right and go into the Bridal room. Stop in front of the first white chair. "
+  ],
+  "path": [
+    "8ed24114308b42b6ab1ddebf3b3a6541",
+    "01b9c25e9cc946f6a7a53688577e2fc3",
+    "ccfc7026f4c6494ca251076c85aa906c",
+    "17be6f4e233546548c6c03fef0459044",
+    "35b3d70f47994598aedb510108752797",
+    "1948f7cff5b04572b43c105a61df7a6d",
+    "d08536af13b44cf486b3d906d76cfaf8"
+  ],
+  "path_id": 2542,
+  "scan": "r1Q1Z4BcV1o",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 15.37,
+  "heading": 0.961,
+  "instructions": [
+    "Pass the desk and when you see the green couch pass those too then go past the fireplace and turn slightly right and go into that hallway. Before the white vase with the flowers turn left and wait at the top of the stairs. ",
+    "You should leave the area with the desk and turn right to get to the sitting room. Once you enter the room make a right and go around the couch, then make a right to go through the doorway. Now make a right go to the end of hall and make a left so you can wait at the stairs. ",
+    "Walk to the left of the desk towards and turn slight right to walk in front of the green couch. Continue around the couch towards the leather chairs and walk down the hallway on the far right. Turn left at the doorway with red walls and stop in front of the staircase leading downstairs. "
+  ],
+  "path": [
+    "8d0cc65b2a484591a97b9a8282809f50",
+    "03a8325e3b054e3fad7e1e7091f9d283",
+    "649a58719cd7455ebe18675c9719dfa7",
+    "24df7bedfc814d7e9bd610171c862f7a",
+    "6ecf3c792e5c48b4921e21fbb3aeff3c",
+    "e8e2d73795e54b6db89cd32745e79fb9"
+  ],
+  "path_id": 2156,
+  "scan": "1LXtFkjw3qL",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 11.1,
+  "heading": 5.72,
+  "instructions": [
+    "Exit the bathroom. Turn right and then exit the room using the door on the right. Turn left and head down the hallway until you get to an arch on the right. Go into the arch and wait near the red couches. ",
+    "Walk out the door to the right of the bathtub. Once out, turn right and walk across the bedroom. Exit out the door on the right. Once out, turn left and walk to the end of the hallway. At the end, turn left and then enter the first door on your right and stop. ",
+    "Exit the bathroom through the doorway. Enter the bedroom and turn right. Exit through the doorway on the right. Turn left. Go forward and enter the archway on the left leading to the living area. Wait there. "
+  ],
+  "path": [
+    "8b55e4f095374cfe8ddb0fda0f0dfa02",
+    "61cac35d27254f8b8edba9601c4f8b5f",
+    "bd9faec23bb3462c94a5fbc6c0a3d5cf",
+    "5b7f2cd508224cf494408c67bb305815",
+    "0cd0dd452a324496afd701e1c4b2e973",
+    "f53ff13e8a954c67bda9a46f3e2e88b8"
+  ],
+  "path_id": 5289,
+  "scan": "S9hNv5qa7GM",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 13.52,
+  "heading": 3.974,
+  "instructions": [
+    "Go straight and then turn left and go out the door on the left. Turn right and go straight until you pass the double glass doors then turn right into the laundry room and wait by the washer and dryer. ",
+    "Walk past the chairs with straw seats to the end of the hall and turn left. Go into the kitchen and turn right. Walk down the hallway, past the glass doors, and turn right into the laundry room. Stop in front of the washer and dryer. ",
+    "Walk down the hall and through the open door at the end into a kitchen area. Walk through the kitchen past the counter top and into the hall in the corner near the refrigerator. Walk down the hall past the paintings. Walk into the room with a washer and dryer. "
+  ],
+  "path": [
+    "c370bbcbfbf649e38524754b668bb1b2",
+    "7fb0cc6c0754461ca29084c1d793b600",
+    "96b25d845ff447cc989dfd87c88ff8b8",
+    "effea130a5984e53bd2bef2bbe4ba4c1",
+    "7f7cc5ccc8a948ada2c5ee60d255aa1e",
+    "e3d01ff572e44b4aa1b3df620ab9eec4",
+    "7b14552fe83b4e76974f711b8fcfc46f"
+  ],
+  "path_id": 3711,
+  "scan": "ac26ZMwG7aT",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 18.49,
+  "heading": 4.681,
+  "instructions": [
+    "Exit the bathroom. Exit the room using the door on the right. Turn slightly left after you pass the pool table to continue going down the hall. Continue down the hall until you get to large glass doors leading to the outside. Wait just outside the doors. ",
+    "Walk out of the bathroom and go right past the bed out of the bedroom. Walk to the left of the coffee table and past the stairs. Walk by the railing and to the right. Stay right past the picture and stop in the double doorway on the left. ",
+    "Exit the bathroom into the bedroom area. Exit the bedroom using the door on the right.Turn right  and walk forward past the stairway and the pool table. You'll continue walking out of the pool table area and alongside the iron railing walkway Turn right at the end of the walkway and head out toward the tile patio through the black doors with the large windows. The door may not be open so you may need to open it, however do not enter onto the patio. Wait at the door for further instructions. "
+  ],
+  "path": [
+    "cfa7edd3cdea4c428cd1b2e2bdb4aa31",
+    "3d0386c86a4a4ada8dc4a3ac54e7315c",
+    "bff73ad3851642d79ce25063c9c5a71e",
+    "07e0b13e8a3c47f68ed9ac46076f129e",
+    "9fd63460efcf4292a96791b9531b6f94",
+    "227f460a7ab143ebb0716888379db76f",
+    "efd2f06dc9de45598b70828ba6168bd8"
+  ],
+  "path_id": 5932,
+  "scan": "vyrNrziPKCB",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 12.07,
+  "heading": 2.717,
+  "instructions": [
+    "Enter the doorway and turn left at the water fountain. Turn left and continue to the double wooden doors on the left. Wait at the entrance. ",
+    "go straight down hallway and turn right into main entrance. Turn slight left next to table and walk right towards stairs. Turn left at stairs into double doors, stop in double doorway. ",
+    "Turn around. Go forward towards water fountain. In front of water foundation, turn right and go through doorway. Move to forward towards the left between the 2 tables. "
+  ],
+  "path": [
+    "16c5a8f68e1242889dcb3854090c7a86",
+    "77cfb227d30443428d4c7787a3da713c",
+    "06c88433ed80477f90bd50f8dc25e7de",
+    "fa1f118c0f924788aa7ea44f690a054f",
+    "01b9c25e9cc946f6a7a53688577e2fc3",
+    "d1732bbf32ad4cf096975da88e5b2cfb",
+    "41aaadfecbfb4c61b9810937212d2ebf"
+  ],
+  "path_id": 3058,
+  "scan": "r1Q1Z4BcV1o",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 17.86,
+  "heading": 3.873,
+  "instructions": [
+    "Go past the two sinks and then past two doors one on each side.. Turn left and exit the room. Go down the stairs ahead. Stop eight steps to the bottom. ",
+    "walk away from bathtub, turn slight right and walk towards bed, turn left and walk through double doors before you pass the fireplace, walk down staircase straight ahead, turn right, walk down three steps and stop. ",
+    "Walk straight, then make a left turn and down the stairs, head right and then another right down until you reach the end of the stairs. "
+  ],
+  "path": [
+    "dca0d855b19a4504b86657af08e26a37",
+    "078205ae85ea491bbd006c4d075a0285",
+    "3d8a7ef8ace848de93dadc773b2d436d",
+    "7d0855f289224c24b83f2b19b15c1d6d",
+    "30ac7a9f6c8d4bc4b27b7b2782f2eb99",
+    "8d4b6c6b93934835a39c391d39f5a537",
+    "24162b6ef8324ebd85d959273079f239"
+  ],
+  "path_id": 4189,
+  "scan": "gTV8FGcVJC9",
+  "source": "R2R",
+  "direction_num": 17
+},{
+  "distance": 16.7,
+  "heading": 3.297,
+  "instructions": [
+    "Turn around, move through the door and into the hallway. Turn left and move forward to through the doorway. Next turn right, walk to the end of the runner and turn left again. Go forward past the stairway, take a left and a quick right into the next door. Wait in that doorway. ",
+    "Walk through the doorway and turn left. Walk toward the stairs and turn right. Walk past the stairs and turn left. Walk into the doorway to the left of the vase and stop. ",
+    "Turn around and take a left at the bathroom. Turn right. Turn left when you get to the stairs and wait in the doorway to the room with big open space. "
+  ],
+  "path": [
+    "ba3207f81c55467fa7e6760f6232fb07",
+    "60399cb6fd9d42a7a364f155fd152361",
+    "d193970cbeac4faeae3b9bfee5c35125",
+    "6c160b1ba8564c09ab8491590266f7f1",
+    "37e7b9950ba44d86b27ba9c5145efe85",
+    "bd0a7e319efd4fd98e373a3d2a025566",
+    "8d01d3df74ea481bb82fd00f4ae6bae7"
+  ],
+  "path_id": 6363,
+  "scan": "E9uDoFAP3SH",
+  "source": "R2R",
+  "direction_num": 16
+},{
+  "distance": 12.52,
+  "heading": 5.662,
+  "instructions": [
+    "Walk toward the door with the vented bottom and turn left to leave the kitchen. Walk past the trellised wall into a small hallway. Go left into the double bedroom. Arrive between two beds. ",
+    "Walk past the kitchen island on the right. Make a left at the switch-plate on the wall to the left. Walk past the wood panel wall dividers on the right. Walk past the bathroom on the right. Enter the open bedroom door to the right of the black leather chair. Wait at the TV. ",
+    "walk on left side of kitchen island, turn left through doorway, walk on right side of glass table through doorway, turn left walk in front of black chair through doorway walk past foot of first bed and stop. "
+  ],
+  "path": [
+    "55abf0a58ae34456a58279523de80df6",
+    "177f67f4e2264d24996672f84cd38405",
+    "8138835f78064c28b6c9c35a89eda7d6",
+    "9d001c6bc0f64a699fd36a6b9a61266a",
+    "7cb2c4bc9ad84463b4d0c6a91b8c4640",
+    "70f4a1eb60744999ba4a1f63fef62afe",
+    "eef89e7a055443d8825cf94f092aaa35"
+  ],
+  "path_id": 4460,
+  "scan": "sT4fr6TAbpF",
+  "source": "R2R",
+  "direction_num": 17
+}]

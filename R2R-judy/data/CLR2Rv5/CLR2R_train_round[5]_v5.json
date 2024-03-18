@@ -1,0 +1,148 @@
+[{
+  "distance": 15.6,
+  "heading": 3.167,
+  "instructions": [
+    "Go straight and turn left passed the table. Go passed the couch and into the large room. Turn right into the exercise room and stop in the doorway on the left. ",
+    "Walk past kitchen on the right. Walk through the dining room. Walk past the curved sofa on the left. Make a right into the home gym. Wait in the threshold of the open double doors to the exterior. ",
+    "Walk straight through the doorway that is in front of you.  Turn left ninety degrees once you are through the doorway.  Walk straight past the table that is on your right.  Turn twenty degrees to your right and walk through the large doorway in front of you.  Walk straight through the doorway and past the large couch that is on your left.  Once you are past the couch, turn right until you are facing a chair in the corner.  You will see a doorway to your right.  Walk through the doorway.  You will see an exercise machine and another doorway to your left.  Walk through the open doorway. "
+  ],
+  "path": [
+    "c929b31b97a14f91b1cadb318a4a8353",
+    "a73871837379498eb16527c6b9c9aa20",
+    "b5145233e4ab457ba0c31f9eb20307bf",
+    "35fbae92aa284ba19652ccb31f4cff9c",
+    "6f5e70ae957d4a95af44068aa4946744",
+    "5cdd513110c54c72b6d9be6f351d32df",
+    "54af55e2794d41cbae1f57d9e152809d"
+  ],
+  "path_id": 4667,
+  "scan": "vyrNrziPKCB",
+  "source": "R2R",
+  "direction_num": 22
+},{
+  "distance": 19.13,
+  "heading": 1.341,
+  "instructions": [
+    "Exit the bedroom into the main house, make a hard right at the chair outside and move towards the largest rock behind the shrub, then wait. ",
+    "Turn slightly right to face the windows and walk forward a few feet towards them. Turn left towards the bedroom area. Keeping the windows to your right walk forward through the bedroom toward the large frosted glass doors. Walk through those doors and continue past the elevator towards the entrance way. Right past the elevator area and before you pass the large entry doors turn left. Move forwards away from the large entry doors and towards the small back exit door that leads outside. There is a red metal sculpture right outside that you should be walking towards . Proceed outside a short distance past the red sculpture and almost until the slate walkway narrows There are two large boulders to the right, off the path. Walk on the dirt and onto the boulder that is closest to the structure you just left. Stop. ",
+    "Take a slight right and walk through the bedroom.  Exit the bedroom and walk forward until you see a corridor to the left with a red sculpture at the end of it.  Walk to the red sculpture.  Take a slight right off of the walkway and walk to the first tree closest to the walkway with two large boulders.  Stand between the tree and the two boulders next to the one with the blackened area on it. "
+  ],
+  "path": [
+    "0e31d2cf016445c5b4adf1aceeed25c4",
+    "c0d5fe43f0b143df80de8b5f78858474",
+    "37cb64e0cddc4f20b309abc4ff5344c2",
+    "4890b24fbb59414892ca854895896126",
+    "d52aaea9fc6e4d5fbecd0220eb9da436",
+    "13c191f506114c73b70830b89e195aa6",
+    "e5d22d5625714f54add784abac16c69f"
+  ],
+  "path_id": 494,
+  "scan": "Uxmj2M2itWa",
+  "source": "R2R",
+  "direction_num": 24
+},{
+  "distance": 13.48,
+  "heading": 1.012,
+  "instructions": [
+    "Go straight down the hallway. Turn slightly right to continue going straight down the hallway. When you get to stairs on the right turn left. Turn right and go into the room on the right. Wait near the couches. ",
+    "With the display case on your right, move forward in the corridor, turning to the right to follow it. At the base of the stairs leading upwards, go through the door that's to the right of the stairs. Turn forty-five degrees to the left and continue past a small mirror to your right. Then enter the room on your right with the wooden flooring. ",
+    "Turn around and head up the hallway and go past the dining room. Make a right turn and go through the open door at the foot of the stairs. Make a left and go through the large arch past the silver mirror. Wait at the corner of the couch. "
+  ],
+  "path": [
+    "d243e41bcf754acfbc8b08dc1bf648c5",
+    "8f35304283a14f6191d27d520a3d006b",
+    "7459a6c7c6ac4f879c5210bfbd0e823d",
+    "5abb17a8029d49f1b8d1e78a88a5176c",
+    "ba47fad63d3945a4ba9ce229b8382d56",
+    "091d2e9f7efa40e48732b0e02612f8cb",
+    "e2191119aba24d3d9326ff49c302f1f8"
+  ],
+  "path_id": 6942,
+  "scan": "VFuaQ6m2Qom",
+  "source": "R2R",
+  "direction_num": 21
+},{
+  "distance": 12.92,
+  "heading": 4.691,
+  "instructions": [
+    "Walk forward into the dining room and out at the other end. Once out of the dining room take a right and go down the hallway into the theater. Stop in the doorway to the theater. ",
+    "walk through dining room, turn right and enter hallway walk straight in hallway, follow hallway slight left passed the wine fridge, stop in theater at stairs. ",
+    "Walk forward until you step off of the carpet and onto the wooden floor. While keeping the table to your right, walk forward to the edge of the table. Veer slightly to the right to avoid bumping the table on your left containing the lamp. Walk forward until you pass the edge of the table, turn slightly left. Walk down the hallway keeping the open kitchen door to your right. Walk past the plug-in on the right wall and out of the hallway. Enter the room on your left with the open archway. Walk forward until you reach mid-point of the table on your left. Turning slightly to your right walk onto the round carpet and wait. "
+  ],
+  "path": [
+    "044e97a033194bf19af45e3100a644df",
+    "4f278b8e757046919bbf37269dd0d017",
+    "ffaf24e85435430ea07c697b9332cfde",
+    "5848b29e18924f5594fbec08340fb7a9",
+    "74a12d0675b54d6193ba63104a6a8e2e",
+    "34d76d6db3484d04a47482685c9ab420",
+    "b3cb0280416742fc9dcba0d2d9e5d2f7"
+  ],
+  "path_id": 1106,
+  "scan": "8WUmhLawc2A",
+  "source": "R2R",
+  "direction_num": 21
+},{
+  "distance": 8.32,
+  "heading": 4.346,
+  "instructions": [
+    "Walk forward to the door, turn left, go down the stairs to the bottom, turn right, walk to the couch, turn left, walk down the hall to the first door on the right, wait in the doorway. ",
+    "Go left down the stairs. Continue past the light switch on the left and go left down the hall. Stop in the doorway on the right. ",
+    "Go forward and turn left at stairs. Go down stairs. At the bottom turn right and go forward 3 steps. Turn left and go towards the door on the right. Stop in front of the door. "
+  ],
+  "path": [
+    "243bb46502fc48128951043fcc8e9b3f",
+    "f44ccc9e567343a68ff23446d307e2ba",
+    "87e3e31b4414414fad08de33c71c87d7",
+    "8c7bc7fdae714fb3aad1bb54816b486b",
+    "e2b6e4010b84450c8dbc7e86258b4502",
+    "d9a69bc7b8a54a319a05f366120ef056",
+    "0e5f1cd9a1cf46ecb2280d75dbb0a819"
+  ],
+  "path_id": 248,
+  "scan": "sKLMLpTHeUy",
+  "source": "R2R",
+  "direction_num": 22
+},{
+  "distance": 11.19,
+  "heading": 5.662,
+  "instructions": [
+    "Head forward and turn left at the door with the slats in it. Head past the decorative room divider to your left and past the glass dining room table to your left. Head forward and past the chair on your right and head through the doorway on your right, immediately after the chair.  Stop here you are at your destination. ",
+    "Take your first left and then take a right. Continue straight past the table and chairs. Take a right and wait in the doorway. ",
+    "Go down the hallway, take a left and then a quick right.  Go past the table and chairs area, past the big chair and then turn to the right.  Go past the dark wooden door and then stop and wait. "
+  ],
+  "path": [
+    "55abf0a58ae34456a58279523de80df6",
+    "177f67f4e2264d24996672f84cd38405",
+    "859a7c9c12c847d9a6860bd6d6bd635a",
+    "c3c5e202b9a04a63ae33742fe9095936",
+    "c06aae190b804b759496db0b88fe4820",
+    "3aa2bb32a50049de842d066eff185b66",
+    "c32e11fd03ac4b2bb88aafacff21527f"
+  ],
+  "path_id": 1530,
+  "scan": "sT4fr6TAbpF",
+  "source": "R2R",
+  "direction_num": 22
+},{
+  "distance": 16.41,
+  "heading": 5.878,
+  "instructions": [
+    "Walk down steps, turn left and follow steps to entry way. Turn hard right and enter go down stairs. Walk straight into dining room. Stop at picture on wall to the right. ",
+    "Walk down the stairs.  At the landing, turn toward the front door and keep going down the stairs to the foyer.  Facing the front door, turn right and go down the stairs that are to the right, before the doorway of the living room.  At the bottom of those stairs, keep walking forward, passing the hall table and mirror on your left.  Walk into the dining room and stop just as you enter the room. ",
+    "Descend the remainder of the stairs, keep advancing until your even with a plant on the right. Change your direction of travel, and head left down the remaining stairs. Pivot to the right and advance to the doorway. Take a sharp right turn and walk forward down those stairs. Advance into your position until you are next to the small table on the left. Go forward into the dining room then halt in this area. "
+  ],
+  "path": [
+    "80a66a290031459b8d96a077ee2cbf4f",
+    "8d4b6c6b93934835a39c391d39f5a537",
+    "24162b6ef8324ebd85d959273079f239",
+    "b1d5a917bfb3444f8d13c2ccd91af1b5",
+    "85599a90376043339b55e424eeb9aeab",
+    "c1a3dc19c1154eb79d45f72d4885016d",
+    "143533f78ff64e93b911ec7868911688"
+  ],
+  "path_id": 3075,
+  "scan": "gTV8FGcVJC9",
+  "source": "R2R",
+  "direction_num": 22
+}]
